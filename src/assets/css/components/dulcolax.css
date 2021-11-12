@@ -1,0 +1,334 @@
+/* slider1 */
+
+.dulco {
+    background-image: url("/images/dulcolax.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.titulo1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 29.5%;
+    top: 32.5%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+    animation: infinite 1s; */
+}
+
+.titulo1 img {
+    width: 562 px;
+    height: 69%;
+}
+
+
+/* slider 2 */
+
+.dulcolax2 {
+    background-image: url("/images/dulcolax2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.been {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 10.2%;
+    top: 40.5%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+    animation: infinite 1s; */
+}
+
+.been img {
+    width: 796px;
+    height: 83%;
+}
+
+
+/* slider 3 */
+
+.dulcolax3 {
+    background-image: url("/images/dulcolax3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.been1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 28.2%;
+    left: 10.2%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+    animation: infinite 1s; */
+}
+
+.been1 img {
+    width: 456px;
+    height: 50%;
+}
+
+.been2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 46.9%;
+    left: 10.2%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+    animation: infinite 1s; */
+}
+
+.been2 img {
+    width: 795px;
+    height: 53%;
+}
+
+
+/* slider 4 */
+
+.dulcolax4 {
+    background-image: url("/images/dulcolax4.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.dul {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 24.2%;
+    left: 4.9%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+      animation: infinite 1s; */
+}
+
+.dul img {
+    width: 582px;
+    height: 129%;
+}
+
+
+/* slider 5 */
+
+.dulcolax5 {
+    background-image: url("/images/dulcolax5.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.copac1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 26.2%;
+    left: 6.6%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+        animation: infinite 1s; */
+}
+
+.copac1 img {
+    width: 861px;
+    height: 85.8%;
+}
+
+.copac2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 50.9%;
+    left: 6.6%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+          animation: infinite 1s; */
+}
+
+.copac2 img {
+    width: 862px;
+    height: 116.8%;
+}
+
+
+/* slider 6 */
+
+.dulcolax6 {
+    background-image: url("/images/dulcolax6.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.activa1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 18.2%;
+    left: 9.5%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+          animation: infinite 1s; */
+}
+
+.activa1 img {
+    width: 815px;
+    height: 85.8%;
+}
+
+.activa2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 44.2%;
+    left: 15.3%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+            animation: infinite 1s; */
+}
+
+.activa2 img {
+    width: 703px;
+    height: 45.8%;
+}
+
+.activa3 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 44.2%;
+    left: 65.3%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+              animation: infinite 1s; */
+}
+
+.activa3 img {
+    width: 299px;
+    height: 191.8%;
+}
+
+
+/* slider 7 */
+
+.dulcolax7 {
+    background-image: url("/images/dulcolax7.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.over {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 20.5%;
+    left: 4.4%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+            animation: infinite 1s; */
+}
+
+.over img {
+    width: 919px;
+    height: 43.8%;
+}
+
+.over2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 39.3%;
+    left: 39.7%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+              animation: infinite 1s; */
+}
+
+.over2 img {
+    width: 207px;
+    height: 162%;
+}
+
+.over3 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 35.3%;
+    left: 63.6%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+                animation: infinite 1s; */
+}
+
+.over3 img {
+    width: 220px;
+    height: 175%;
+}
+
+.over1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    top: 35.3%;
+    left: 15.3%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+                  animation: infinite 1s; */
+}
+
+.over1 img {
+    width: 221px;
+    height: 174%;
+}

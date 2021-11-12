@@ -3,7 +3,7 @@
     <div class="port animate__animated animate__pulse">
       <img src="/images/port1.png" alt="" />
     </div>
-    <div class="port1 animate__animated animate__bounce">
+    <div class="port1 animate__animated animate__fadeInLeft">
       <img src="/images/port.png" alt="" />
     </div>
 
@@ -13,13 +13,13 @@
     <!-- pop up -->
     <div class="popup2" style="display: none">
       <img id="ope" src="/images/pop5.jpg" alt="" />
-      <div class="cerrar" @click.prevent="closeModal"></div>
+      <div class="cerrar21" @click.prevent="closeModal"></div>
     </div>
 
      <!-- pop up 2-->
     <div class="popup3" style="display: none">
       <img id="ope1" src="/images/pop52.jpg" alt="" />
-      <div class="cerrar2" @click.prevent="closeModal1"></div>
+      <div class="cerrar22" @click.prevent="closeModal1"></div>
     </div>
 
 
@@ -29,12 +29,12 @@
     <router-link class="after1" to="/enterogermina/05"></router-link>
 
     <router-link class="home" to="/"></router-link>
-    <router-link class="enterogermina" to="/"></router-link>
-    <router-link class="dulcolax" to="/"></router-link>
-    <router-link class="esentiale" to="/"></router-link>
-    <router-link class="buscapina" to="/"></router-link>
-    <router-link class="allegra" to="/"></router-link>
-    <router-link class="pharmathon" to="/"></router-link>
+    <router-link class="enterogermina" to="/enterogermina/01"></router-link>
+    <router-link class="dulcolax" to="/dulcolax/01"></router-link>
+    <router-link class="esentiale" to="/esentiale/01"></router-link>
+    <router-link class="buscapina" to="/buscapina/01"></router-link>
+    <router-link class="allegra" to="/allegra/01"></router-link>
+    <router-link class="pharmathon" to="/pharmaton/01"></router-link>
   </div>
 </template>
 <script>

@@ -14,12 +14,12 @@
     <router-link class="boton" to="/enterogermina/01"></router-link>
 
     <router-link class="home" to="/"></router-link>
-    <router-link class="enterogermina" to="/"></router-link>
-    <router-link class="dulcolax" to="/"></router-link>
-    <router-link class="esentiale" to="/"></router-link>
-    <router-link class="buscapina" to="/"></router-link>
-    <router-link class="allegra" to="/"></router-link>
-    <router-link class="pharmathon" to="/"></router-link>
+    <router-link class="enterogermina" to="/enterogermina/01"></router-link>
+    <router-link class="dulcolax" to="/dulcolax/01"></router-link>
+    <router-link class="esentiale" to="/esentiale/01"></router-link>
+    <router-link class="buscapina" to="/buscapina/01"></router-link>
+    <router-link class="allegra" to="/allegra/01"></router-link>
+    <router-link class="pharmathon" to="/pharmaton/01"></router-link>
 
   </div>
 </template>

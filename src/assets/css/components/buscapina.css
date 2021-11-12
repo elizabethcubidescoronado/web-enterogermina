@@ -1,0 +1,491 @@
+/* slider1 */
+
+.buscapin {
+    background-image: url("/images/buscapina.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/* slider2 */
+
+.buscapin1 {
+    background-image: url("/images/busca2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/* poppuo */
+
+.lupaR00 {
+    position: absolute;
+    z-index: 1;
+    top: 72%;
+    left: 25.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.lupap2 {
+    position: absolute;
+    z-index: 1;
+    top: 77.2%;
+    left: 50.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+.popup01 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup01 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar20 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 110px;
+    left: 828px;
+    cursor: pointer;
+}
+
+
+/* slider3*/
+
+.buscap {
+    background-image: url("/images/bus12.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/* poppuo */
+
+.lupaR9 {
+    position: absolute;
+    z-index: 1;
+    top: 40.2%;
+    left: 2.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.popup40 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup40 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar41 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 252px;
+    left: 903px;
+    cursor: pointer;
+}
+
+
+/* poppuo */
+
+.lupaR05 {
+    position: absolute;
+    z-index: 1;
+    top: 72.2%;
+    left: 50.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.popup19 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup19 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar81 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 251px;
+    left: 904px;
+    cursor: pointer;
+}
+
+
+/* poppuo */
+
+.lupaR101 {
+    position: absolute;
+    z-index: 1;
+    top: 71.2%;
+    left: 69.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.popup102 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup102 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar105 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 250px;
+    left: 904px;
+    cursor: pointer;
+}
+
+
+/* slider4*/
+
+.buscap4 {
+    background-image: url("/images/busca45.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/* poppuo */
+
+.lupaR00 {
+    position: absolute;
+    z-index: 1;
+    top: 72%;
+    left: 25.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.lupap2 {
+    position: absolute;
+    z-index: 1;
+    top: 77.2%;
+    left: 50.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+.popup01 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup01 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar20 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 110px;
+    left: 828px;
+    cursor: pointer;
+}
+
+
+/* slider3*/
+
+.buscap {
+    background-image: url("/images/bus12.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/* poppuo */
+
+.lupam1 {
+    position: absolute;
+    z-index: 1;
+    top: 51.2%;
+    left: 18.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.popup50 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup50 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar51 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 157px;
+    left: 743px;
+    cursor: pointer;
+}
+
+
+/* poppuo */
+
+.lupaRm2 {
+    position: absolute;
+    z-index: 1;
+    top: 51.2%;
+    left: 45.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.popup52 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup52 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar53 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 163px;
+    left: 745px;
+    cursor: pointer;
+}
+
+
+/* poppuo */
+
+.lupaRm3 {
+    position: absolute;
+    z-index: 1;
+    top: 51.2%;
+    left: 71.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.popup54 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup54 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar55 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 160px;
+    left: 744px;
+    cursor: pointer;
+}
+
+
+/* poppuo */
+
+.lupaRm4 {
+    position: absolute;
+    z-index: 1;
+    top: 21.2%;
+    left: 62.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider3 */
+
+.popup56 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup56 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar57 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 163px;
+    left: 744px;
+    cursor: pointer;
+}
+
+
+/* slider5*/
+
+.buscap6 {
+    background-image: url("/images/fondo111.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+
+/* slider6*/
+
+.buscap7 {
+    background-image: url("/images/port20.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.lupam8 {
+    position: absolute;
+    z-index: 1;
+    top: 71.2%;
+    left: 13.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+
+/* popup slider5 */
+
+.popuprt {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popuprt img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar60 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 109px;
+    left: 885px;
+    cursor: pointer;
+}

@@ -1,12 +1,12 @@
 <template>
   <div class="fondo6">
-    <div class="mark animate__animated animate__rotateInDownLeft">
+    <div class="mark animate__animated animate__zoomInDown">
       <img src="/images/mark.png" alt="" />
     </div>
-    <div class="mark1 animate__animated animate__rotateIn">
+    <div class="mark1 animate__animated animate__rotateInDownLeft">
       <img src="/images/mark1.png" alt="" />
     </div>
-    <div class="mark2 animate__animated animate__bounce">
+    <div class="mark2 animate__animated animate__slideInUp">
       <img src="/images/mark2.png" alt="" />
     </div>
     <div class="lupaR2" @click.prevent="openModal"></div>
@@ -15,13 +15,13 @@
     <!-- pop up -->
     <div class="popup1" style="display: none">
       <img id="ope" src="/images/pop3.jpg" alt="" />
-      <div class="cerrar" @click.prevent="closeModal"></div>
+      <div class="cerrar6" @click.prevent="closeModal"></div>
     </div>
 
      <!-- pop up 2-->
     <div class="popup2" style="display: none">
       <img id="ope1" src="/images/pop4.jpg" alt="" />
-      <div class="cerrar1" @click.prevent="closeModal1"></div>
+      <div class="cerrar17" @click.prevent="closeModal1"></div>
     </div>
 
     <!-- Navegacion -->
@@ -29,12 +29,12 @@
     <router-link class="after1" to="/enterogermina/04"></router-link>
 
     <router-link class="home" to="/"></router-link>
-    <router-link class="enterogermina" to="/"></router-link>
-    <router-link class="dulcolax" to="/"></router-link>
-    <router-link class="esentiale" to="/"></router-link>
-    <router-link class="buscapina" to="/"></router-link>
-    <router-link class="allegra" to="/"></router-link>
-    <router-link class="pharmathon" to="/"></router-link>
+    <router-link class="enterogermina" to="/enterogermina/01"></router-link>
+    <router-link class="dulcolax" to="/dulcolax/01"></router-link>
+    <router-link class="esentiale" to="/esentiale/01"></router-link>
+    <router-link class="buscapina" to="/buscapina/01"></router-link>
+    <router-link class="allegra" to="/allegra/01"></router-link>
+    <router-link class="pharmathon" to="/pharmaton/01"></router-link>
   </div>
 </template> 
 <script>

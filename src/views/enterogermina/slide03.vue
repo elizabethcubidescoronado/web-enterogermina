@@ -1,6 +1,6 @@
 <template>
   <div class="fondo4">
-    <div class="lat animate__animated animate__fadeIn">
+    <div class="lat animate__animated animate__rotateInDownRight">
         <img src="/images/lat.png" alt="">
     </div>
     <div class="lat1 animate__animated animate__fadeInDown">
@@ -16,7 +16,7 @@
     <!-- pop up -->
     <div class="popup" style="display: none">
         <img id="ope" src="/images/popup.jpg" alt="">
-        <div class="cerrar" @click.prevent="closeModal"></div>
+        <div class="cerrar12" @click.prevent="closeModal"></div>
     </div>
 
     <!-- Navegacion -->
@@ -24,12 +24,12 @@
     <router-link class="after1" to="/enterogermina/02"></router-link>
 
     <router-link class="home" to="/"></router-link>
-    <router-link class="enterogermina" to="/"></router-link>
-    <router-link class="dulcolax" to="/"></router-link>
-    <router-link class="esentiale" to="/"></router-link>   
-    <router-link class="buscapina" to="/"></router-link>
-    <router-link class="allegra" to="/"></router-link>
-    <router-link class="pharmathon" to="/"></router-link>
+    <router-link class="enterogermina" to="/enterogermina/01"></router-link>
+    <router-link class="dulcolax" to="/dulcolax/01"></router-link>
+    <router-link class="esentiale" to="/esentiale/01"></router-link>
+    <router-link class="buscapina" to="/buscapina/01"></router-link>
+    <router-link class="allegra" to="/allegra/01"></router-link>
+    <router-link class="pharmathon" to="/pharmaton/01"></router-link>
   </div>
 </template>
 <script>
