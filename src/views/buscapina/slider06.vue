@@ -11,7 +11,7 @@
     </div>
 
     <!-- navegacion -->
-    <router-link class="boton1" to="/buscapina/07"></router-link>
+    <!-- <router-link class="boton1" to="/buscapina/07"></router-link> -->
     <router-link class="after" to="/buscapina/05"></router-link>
 
 

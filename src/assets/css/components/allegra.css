@@ -1,0 +1,795 @@
+/* slider1 */
+
+.ale {
+    background-image: url("/images/allegra1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.ban {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 19.7%;
+    top: 30.3%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.ban img {
+    width: 647px;
+    height: 83%;
+}
+
+/* slider2 */
+
+.ale1 {
+    background-image: url("/images/allegra2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.ban1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 8.7%;
+    top: 45.3%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.ban1 img {
+    width: 713px;
+    height: 77%;
+}
+
+/* slider3 */
+
+.ale2 {
+    background-image: url("/images/allegra3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.banner {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 6.1%;
+    top: 38.3%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner img {
+    width: 413px;
+    height: 53%;
+}
+
+.banner1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 6.2%;
+    top: 63.1%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner1 img {
+    width: 287.8px;
+    height: 42%;
+}
+
+.banner2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 37%;
+    top: 64.6%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner2 img {
+    width: 279px;
+    height: 32%;
+}
+
+.banner3 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 68.4%;
+    top: 64.6%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner3 img {
+    width: 258.5px;
+    height: 31.9%;
+}
+
+/* slider4 */
+
+.ale3 {
+    background-image: url("/images/allegra4.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.banner4 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 36.8%;
+    top: 32.3%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner4 img {
+    width: 580px;
+    height: 40%;
+}
+
+.banner5 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 54.7%;
+    top: 46.9%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner5 img {
+    width: 450px;
+    height: 90.9%;
+}
+
+/* slider5 */
+
+.ale4 {
+    background-image: url("/images/allegra5.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.banner6 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 7.5%;
+    top: 23%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner6 img {
+    width: 553.4px;
+    height: 72%;
+}
+
+.banner7 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 7.7%;
+    top: 46.1%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner7 img {
+    width: 256px;
+    height: 39.9%;
+}
+
+.banner8 img {
+    width: 258.8px;
+    height: 51.9%;
+}
+
+.banner8 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 7.5%;
+    top: 64.3%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner9 img {
+    width: 265.6px;
+    height: 49.4%;
+}
+
+.banner9 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 37.6%;
+    top: 44.7%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner10 img {
+    width: 269.2px;
+    height: 61.7%;
+}
+
+.banner10 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 37.5%;
+    top: 62.9%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+/* slider6 */
+
+.ale5 {
+    background-image: url("/images/allegra6.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.banner11 img {
+    width: 685.7px;
+    height: 85.8%;
+}
+
+.banner11 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 30.5%;
+    top: 31.8%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner12 img {
+    width: 297.7px;
+    height: 51.5%;
+}
+
+.banner12 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 5.7%;
+    top: 62.8%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner13 img {
+    width: 253.5px;
+    height: 63%;
+}
+
+.banner13 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 38.2%;
+    top: 60.8%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.banner14 img {
+    width: 251.8px;
+    height: 55.9%;
+}
+
+.banner14 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 68.7%;
+    top: 61.6%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+/* slider7 */
+
+.ale6 {
+    background-image: url("/images/allegra7.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.part img {
+    width: 411.8px;
+    height: 68.9%;
+}
+
+.part {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: -0.3%;
+    top: 61.4%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part1 img {
+    width: 258.2px;
+    height: 41.8%;
+}
+
+.part1 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 37.9%;
+    top: 65.2%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part2 img {
+    width: 288.2px;
+    height: 70.8%;
+}
+
+.part2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 66.9%;
+    top: 61.2%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+/* slaider8 */
+
+.ale7 {
+    background-image: url("/images/allegra8.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.part3 img {
+    width: 267.2px;
+    height: 55.8%;
+}
+
+.part3 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 23.1%;
+    top: 31.8%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part4 img {
+    width: 186.2px;
+    height: 69.8%;
+}
+
+.part4 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 56.4%;
+    top: 28.8%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part5 img {
+    width: 230.4px;
+    height: 56.8%;
+}
+
+.part5 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 10.2%;
+    top: 54.5%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part6 img {
+    width: 257.7px;
+    height: 84.2%;
+}
+
+.part6 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 39.3%;
+    top: 51.1%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part7 img {
+    width: 217.1px;
+    height: 79.2%;
+}
+
+.part7 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 69%;
+    top: 53.7%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+/* slaider9 */
+
+.ale8 {
+    background-image: url("/images/allegra9.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.part8 img {
+    width: 306.1px;
+    height: 26.2%;
+}
+
+.part8 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 5%;
+    top: 26.2%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part9 img {
+    width: 587.1px;
+    height: 72.2%;
+}
+
+.part9 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 5%;
+    top: 36.5%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.part10 img {
+    width: 290.1px;
+    height: 56.5%;
+}
+
+.part10 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 67.3%;
+    top: 38.5%;
+    z-index: 10;
+    cursor: pointer;
+}
+
+/* slaider10 */
+
+.ale9 {
+    background-image: url("/images/allegra10.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* pop up */
+
+.lupita {
+    position: absolute;
+    top: 67%;
+    left: 56.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.popup73 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup73 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar60 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 160px;
+    left: 779px;
+    cursor: pointer;
+}
+
+/* pop up1 */
+
+.lupita0 {
+    position: absolute;
+    top: 70%;
+    left: 13.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.popup74 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup74 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar61 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 201px;
+    left: 941px;
+    cursor: pointer;
+}
+
+/* pop up2*/
+
+.lupita1 {
+    position: absolute;
+    top: 70%;
+    left: 44.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.popup75 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup75 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar62 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 119px;
+    left: 905px;
+    cursor: pointer;
+}
+
+/* pop up3 */
+
+.lupita2 {
+    position: absolute;
+    top: 69%;
+    left: 75.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.popup76 {
+    z-index: 1000;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup76 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar63 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 14%;
+    right: 9%;
+    cursor: pointer;
+}
+
+#toSlide1 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    z-index: 1000;
+    bottom: 21.5%;
+    left: 46.6%;
+    cursor: pointer;
+}
+
+#toSlide2 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    z-index: 1000;
+    bottom: 21.5%;
+    left: 49.3%;
+    cursor: pointer;
+}
+
+#toSlide3 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    z-index: 1000;
+    bottom: 21.5%;
+    left: 51.7%;
+    cursor: pointer;
+}
+
+/* pop up3 */
+
+.lupita12 {
+    position: absolute;
+    top: 76%;
+    left: 32.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.popup90 {
+    z-index: 1000;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup90 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar65 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 113px;
+    left: 916px;
+    cursor: pointer;
+}
+
+.lupita15 {
+    position: absolute;
+    top: 77%;
+    left: 59.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+    z-index: 100;
+}
+
+.popup50 {
+    z-index: 1000;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup50 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar67 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 113px;
+    left: 916px;
+    cursor: pointer;
+}

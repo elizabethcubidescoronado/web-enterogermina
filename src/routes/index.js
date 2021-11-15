@@ -172,6 +172,100 @@ const routes = [{
         component: () =>
             import ('../views/buscapina/slider06.vue')
     },
+    {
+        path: '/allegra/01',
+        name: 'Allegra_01',
+        component: () =>
+            import ('../views/allegra/slider01.vue')
+    },
+    {
+        path: '/allegra/02',
+        name: 'Allegra_02',
+        component: () =>
+            import ('../views/allegra/slider02.vue')
+    },
+    {
+        path: '/allegra/03',
+        name: 'Allegra_03',
+        component: () =>
+            import ('../views/allegra/slider03.vue')
+    },
+    {
+        path: '/allegra/04',
+        name: 'Allegra_04',
+        component: () =>
+            import ('../views/allegra/slider04.vue')
+    },
+    {
+        path: '/allegra/05',
+        name: 'Allegra_05',
+        component: () =>
+            import ('../views/allegra/slider05.vue')
+    },
+    {
+        path: '/allegra/06',
+        name: 'Allegra_06',
+        component: () =>
+            import ('../views/allegra/slider06.vue')
+    },
+    {
+        path: '/allegra/07',
+        name: 'Allegra_07',
+        component: () =>
+            import ('../views/allegra/slider07.vue')
+    },
+    {
+        path: '/allegra/08',
+        name: 'Allegra_08',
+        component: () =>
+            import ('../views/allegra/slider08.vue')
+    },
+    {
+        path: '/allegra/09',
+        name: 'Allegra_09',
+        component: () =>
+            import ('../views/allegra/slider09.vue')
+    },
+    {
+        path: '/allegra/10',
+        name: 'Allegra_10',
+        component: () =>
+            import ('../views/allegra/slider10.vue')
+    },
+    {
+        path: '/pharmaton/01',
+        name: 'Pharmaton_01',
+        component: () =>
+            import ('../views/pharmaton/slider01.vue')
+    },
+    {
+        path: '/pharmaton/02',
+        name: 'Pharmaton_02',
+        component: () =>
+            import ('../views/pharmaton/slider02.vue')
+    },
+    {
+        path: '/pharmaton/03',
+        name: 'Pharmaton_03',
+        component: () =>
+            import ('../views/pharmaton/slider03.vue')
+    },
+    {
+        path: '/pharmaton/04',
+        name: 'Pharmaton_04',
+        component: () =>
+            import ('../views/pharmaton/slider04.vue')
+    },
+    {
+        path: '/pharmaton/05',
+        name: 'Pharmaton_05',
+        component: () =>
+            import ('../views/pharmaton/slider05.vue')
+    },
+    
+    
+    
+    
 ];
 
 const router = new VueRouter({

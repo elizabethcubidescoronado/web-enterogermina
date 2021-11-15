@@ -7,6 +7,7 @@
     <div class="mage2 animate__animated animate__backInLeft">
       <img id="pop" src="/images/mage2.png" alt="" />
     </div>
+    
 
     <!-- carrousel -->
     <div class="seguir" @click.prevent="toSlide1"></div>
