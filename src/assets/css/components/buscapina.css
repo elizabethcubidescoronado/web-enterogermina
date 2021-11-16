@@ -66,8 +66,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 110px;
-    left: 828px;
+    top: 15%;
+    right: 14%;
     cursor: pointer;
 }
 
@@ -117,8 +117,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 252px;
-    left: 903px;
+    top: 35%;
+    right: 6%;
     cursor: pointer;
 }
 
@@ -156,8 +156,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 251px;
-    left: 904px;
+    top: 35%;
+    right: 6%;
     cursor: pointer;
 }
 
@@ -195,8 +195,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 250px;
-    left: 904px;
+    top: 35%;
+    right: 6%;
     cursor: pointer;
 }
 
@@ -308,8 +308,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 157px;
-    left: 743px;
+    top: 22%;
+    right: 22%;
     cursor: pointer;
 }
 
@@ -347,8 +347,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 163px;
-    left: 745px;
+    top: 22%;
+    right: 22%;
     cursor: pointer;
 }
 
@@ -386,8 +386,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 160px;
-    left: 744px;
+    top: 22%;
+    right: 22%;
     cursor: pointer;
 }
 
@@ -425,8 +425,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 163px;
-    left: 744px;
+    top: 22%;
+    right: 22%;
     cursor: pointer;
 }
 
@@ -485,7 +485,7 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 109px;
-    left: 885px;
+    top: 15%;
+    left: 86%;
     cursor: pointer;
 }
