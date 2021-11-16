@@ -9,6 +9,7 @@
     <div class="mark2 animate__animated animate__slideInUp">
       <img src="/images/mark2.png" alt="" />
     </div>
+
     <div class="lupaR2" @click.prevent="openModal"></div>
     <div class="lupaR3" @click.prevent="openModal1"></div>
 
