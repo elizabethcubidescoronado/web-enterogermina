@@ -1,6 +1,8 @@
 <template>
   <div class="buscapin1">
 
+
+
     <!-- modal -->
     <div class="lupap2" @click.prevent="openModal"></div>
 
