@@ -1,7 +1,7 @@
 <template>
   <div class="red">
     <div class="esenti2 animate__animated animate__fadeInDown">
-      <img src="/images/red3.png" alt="" />
+      <img src="/images/Red3.png" alt="" />
     </div>
 
     <!-- navegacion -->
