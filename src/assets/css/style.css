@@ -26,9 +26,9 @@ body {
 
 .ancho {
     width: 100vw;
-    height: calc((10 / 16) * 110vw);
+    height: calc((10 / 16) * 90vw);
     left: calc(50% - 50vw);
-    top: calc(50% - (((10 / 16) * 110vw) / 2));
+    top: calc(50% - (((10 / 16) * 95vw) / 2));
 }
 
 @media (min-width: 1024px) {
