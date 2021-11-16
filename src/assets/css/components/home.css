@@ -5,24 +5,20 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
+    position: absolute;
 }
 
 .foto1 {
-    background-repeat: no-repeat;
-    background-size: contain;
     position: absolute;
-    height: 28%;
-    left: 3%;
-    top: 52%;
-    z-index: 10;
-    cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-  animation: infinite 1s; */
+    height: auto;
+    left: 5%;
+    top: 63%;
+    width: 24.6%;
 }
 
 .foto1 img {
-    width: 272px;
-    height: 143%;
+    width: 100%;
+    height: auto;
 }
 
 .foto2 {
@@ -39,8 +35,8 @@
 }
 
 .foto2 img {
-    width: 240px;
-    height: 95%;
+    width: 83.5%;
+    height: auto;
 }
 
 .titulo {
@@ -132,15 +128,15 @@
 
 .mage1 {
     position: absolute;
-    width: 60.1%;
+    width: 80.1%;
     top: 20.8%;
     left: 4.8%;
-    height: 15.1%;
+    height: 22.1%;
 }
 
 .mage1 img {
-    width: 150.4%;
-    height: 150.1%;
+    width: 100%;
+    height: auto;
 }
 
 .mage2 {
@@ -148,7 +144,7 @@
     width: 100%;
     top: 50.1%;
     left: 0%;
-    height: 15.1%;
+    height: auto;
 }
 
 .mage2 img {
@@ -204,15 +200,15 @@
 
 .po1 {
     position: absolute;
-    width: 60.1%;
+    width: 100%;
     top: 37.4%;
     left: 0%;
-    height: 15.1%;
+    height: auto;
 }
 
 .po1 img {
-    width: 166.3%;
-    height: 196%;
+    width: 100%;
+    height: auto;
 }
 
 .po2 {
@@ -220,9 +216,7 @@
     width: 60.1%;
     top: 44.6%;
     left: 39.1%;
-    height: 15.1%;
-    /* -webkit-animation: infinite 1s;
-  animation: infinite 1s; */
+    height: auto;
 }
 
 .po2 img {
@@ -289,34 +283,34 @@
 }
 
 .lat img {
-    width: 125%;
-    height: 55%;
+    width: 100%;
+    height: auto;
 }
 
 .lat1 {
     position: absolute;
-    width: 60.1%;
+    width: 88%;
     top: 31.8%;
     left: 6.6%;
-    height: 15.1%;
+    height: auto;
 }
 
 .lat1 img {
-    width: 144.5%;
-    height: 160%;
+    width: 100%;
+    height: auto;
 }
 
 .lat3 {
     position: absolute;
-    width: 60.1%;
+    width: 88%;
     top: 56.3%;
     left: 6.6%;
-    height: 15.1%;
+    height: auto;
 }
 
 .lat3 img {
-    width: 144.5%;
-    height: 160%;
+    width: 100%;
+    height: auto;
 }
 
 .lupaR {
@@ -352,8 +346,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 110px;
-    left: 842px;
+    top: 10%;
+    right: 12%;
     cursor: pointer;
 }
 
@@ -371,15 +365,15 @@
 
 .lead {
     position: absolute;
-    width: 60.1%;
+    width: 80.1%;
     top: 20.9%;
     left: 9.1%;
     height: 15.1%;
 }
 
 .lead img {
-    width: 128%;
-    height: 79.3%;
+    width: 100%;
+    height: auto;
 }
 
 .lead1 {
@@ -387,7 +381,7 @@
     width: 60.1%;
     top: 34.9%;
     left: 23.2%;
-    height: 15.1%;
+    height: auto;
 }
 
 .lead1 img {
@@ -397,15 +391,15 @@
 
 .lead2 {
     position: absolute;
-    width: 60.1%;
+    width: 91%;
     top: 60.9%;
     left: 5.2%;
-    height: 15.1%;
+    height: auto;
 }
 
 .lead2 img {
-    width: 149.5%;
-    height: 154.3%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -442,8 +436,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 90px;
-    left: 876px;
+    top: 12%;
+    right: 9%;
     cursor: pointer;
 }
 
@@ -464,7 +458,7 @@
     width: 60.1%;
     top: 20.9%;
     left: 14.1%;
-    height: 15.1%;
+    height: auto;
 }
 
 .mark img {
@@ -477,7 +471,7 @@
     width: 60.1%;
     top: 46.4%;
     left: 4.5%;
-    height: 15.1%;
+    height: auto;
 }
 
 .mark1 img {
@@ -490,7 +484,7 @@
     width: 60.1%;
     top: 46.4%;
     left: 36.5%;
-    height: 15.1%;
+    height: auto;
 }
 
 .mark2 img {
@@ -545,8 +539,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 97px;
-    left: 748px;
+    top: 12%;
+    right: 21%;
     cursor: pointer;
 }
 
@@ -584,8 +578,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 100px;
-    left: 892px;
+    top: 12%;
+    right: 9%;
     cursor: pointer;
 }
 
@@ -603,10 +597,10 @@
 
 .port {
     position: absolute;
-    width: 60.1%;
+    width: 54.1%;
     top: 28.9%;
     left: 4.9%;
-    height: 15.1%;
+    height: auto;
 }
 
 .port img {
@@ -616,15 +610,15 @@
 
 .port1 {
     position: absolute;
-    width: 60.1%;
+    width: 76%;
     top: 14.4%;
     left: 10.5%;
-    height: 15.1%;
+    height: auto;
 }
 
 .port1 img {
-    width: 111.2%;
-    height: 45.9%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -661,8 +655,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 107px;
-    left: 852px;
+    top: 12%;
+    right: 11%;
     cursor: pointer;
 }
 
@@ -700,8 +694,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 132px;
-    left: 912px;
+    top: 18%;
+    right: 5.2%;
     cursor: pointer;
 }
 
@@ -745,23 +739,23 @@
 
 .purpo2 {
     position: absolute;
-    width: 60.1%;
+    width: 58.1%;
     top: 43.9%;
     left: 5.4%;
-    height: 15.1%;
+    height: auto;
 }
 
 .purpo2 img {
-    width: 104.6%;
-    height: 281%;
+    width: 100%;
+    height: auto;
 }
 
 .purpo3 {
     position: absolute;
-    width: 60.1%;
+    width: 55.1%;
     top: 17.1%;
     left: 51.8%;
-    height: 15.1%;
+    height: auto;
 }
 
 .purpo3 img {

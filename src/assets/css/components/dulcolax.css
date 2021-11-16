@@ -48,13 +48,14 @@
     top: 40.5%;
     z-index: 10;
     cursor: pointer;
+    width: 79%;
     /* -webkit-animation: infinite 1s;
     animation: infinite 1s; */
 }
 
 .been img {
-    width: 796px;
-    height: 83%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -78,13 +79,14 @@
     left: 10.2%;
     z-index: 10;
     cursor: pointer;
+    width: 40%;
     /* -webkit-animation: infinite 1s;
     animation: infinite 1s; */
 }
 
 .been1 img {
-    width: 456px;
-    height: 50%;
+    width: 100%;
+    height: auto;
 }
 
 .been2 {
@@ -96,13 +98,14 @@
     left: 10.2%;
     z-index: 10;
     cursor: pointer;
+    width: 79%;
     /* -webkit-animation: infinite 1s;
     animation: infinite 1s; */
 }
 
 .been2 img {
-    width: 795px;
-    height: 53%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -121,18 +124,19 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     top: 24.2%;
     left: 4.9%;
     z-index: 10;
     cursor: pointer;
+    width: 52%;
     /* -webkit-animation: infinite 1s;
       animation: infinite 1s; */
 }
 
 .dul img {
-    width: 582px;
-    height: 129%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -156,31 +160,33 @@
     left: 6.6%;
     z-index: 10;
     cursor: pointer;
+    width: 87.7%;
     /* -webkit-animation: infinite 1s;
         animation: infinite 1s; */
 }
 
 .copac1 img {
-    width: 861px;
-    height: 85.8%;
+    width: 100%;
+    height: auto;
 }
 
 .copac2 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
-    top: 50.9%;
+    height: auto;
+    top: 52.9%;
     left: 6.6%;
     z-index: 10;
     cursor: pointer;
+    width: 87.7%;
     /* -webkit-animation: infinite 1s;
           animation: infinite 1s; */
 }
 
 .copac2 img {
-    width: 862px;
-    height: 116.8%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -235,18 +241,19 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     top: 44.2%;
     left: 65.3%;
     z-index: 10;
     cursor: pointer;
+    width: 29.1%;
     /* -webkit-animation: infinite 1s;
               animation: infinite 1s; */
 }
 
 .activa3 img {
-    width: 299px;
-    height: 191.8%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -283,52 +290,53 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     top: 39.3%;
     left: 39.7%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 20.1%;
 }
 
 .over2 img {
-    width: 207px;
-    height: 162%;
+    width: 100%;
+    height: auto;
 }
 
 .over3 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     top: 35.3%;
     left: 63.6%;
     z-index: 10;
     cursor: pointer;
+    width: 19.5%;
     /* -webkit-animation: infinite 1s;
                 animation: infinite 1s; */
 }
 
 .over3 img {
-    width: 220px;
-    height: 175%;
+    width: 100%;
+    height: auto;
 }
 
 .over1 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     top: 35.3%;
     left: 15.3%;
     z-index: 10;
     cursor: pointer;
+    width: 21.5%;
     /* -webkit-animation: infinite 1s;
                   animation: infinite 1s; */
 }
 
 .over1 img {
-    width: 221px;
-    height: 174%;
+    width: 100%;
+    height: auto;
 }

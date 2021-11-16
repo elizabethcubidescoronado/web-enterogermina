@@ -13,18 +13,17 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 18.3%;
-    top: 35.5%;
+    top: 34.2%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-      animation: infinite 1s; */
+    width: 63.3%;
 }
 
 .esenti1 img {
-    width: 648px;
-    height: 78%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -43,18 +42,19 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 8.9%;
-    top: 41.1%;
+    top: 40.1%;
     z-index: 10;
     cursor: pointer;
+    width: 83.5%;
     /* -webkit-animation: infinite 1s;
         animation: infinite 1s; */
 }
 
 .esenti2 img {
-    width: 855px;
-    height: 78%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -73,36 +73,38 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: 32%;
     left: 8.9%;
     top: 28.3%;
     z-index: 10;
     cursor: pointer;
+    width: 76%;
     /* -webkit-animation: infinite 1s;
           animation: infinite 1s; */
 }
 
 .esenti3 img {
-    width: 1057px;
-    height: 50%;
+    width: 100%;
+    height: auto;
 }
 
 .esenti4 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: 32%;
     left: 6.6%;
-    top: 44.3%;
+    top: 45.3%;
     z-index: 10;
     cursor: pointer;
+    width: 87.2%;
     /* -webkit-animation: infinite 1s;
             animation: infinite 1s; */
 }
 
 .esenti4 img {
-    width: 892px;
-    height: 116%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -121,54 +123,51 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 8.7%;
     top: 28.2%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 66%;
 }
 
 .UP img {
-    width: 705px;
-    height: 70%;
+    width: 100%;
+    height: auto;
 }
 
 .UP1 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
-    left: 61.4%;
-    top: 23.2%;
+    height: auto;
+    left: 63.4%;
+    top: 22.2%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 31%;
 }
 
 .UP1 img {
-    width: 342px;
-    height: 129%;
+    width: 100%;
+    height: auto;
 }
 
 .UP2 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 8.8%;
     top: 53.4%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-            animation: infinite 1s; */
+    width: 83%;
 }
 
 .UP2 img {
-    width: 859px;
-    height: 68%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -217,8 +216,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 103px;
-    left: 920px;
+    top: 14%;
+    right: 4%;
     cursor: pointer;
 }
 
@@ -256,8 +255,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 110px;
-    left: 784px;
+    top: 12%;
+    right: 18%;
     cursor: pointer;
 }
 
@@ -295,8 +294,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 106px;
-    left: 919px;
+    top: 12%;
+    right: 5%;
     cursor: pointer;
 }
 
@@ -316,72 +315,68 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 21.1%;
     top: 26.2%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 56.1%;
 }
 
 .delta1 img {
-    width: 573px;
-    height: 87%;
+    width: 100%;
+    height: auto;
 }
 
 .delta2 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
-    left: 6.7%;
+    height: auto;
+    left: 8.8%;
     top: 50.8%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 27%;
 }
 
 .delta2 img {
-    width: 291px;
-    height: 85%;
+    width: 100%;
+    height: auto;
 }
 
 .delta3 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 35.7%;
     top: 50.8%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 27%;
 }
 
 .delta3 img {
-    width: 290px;
-    height: 85%;
+    width: 100%;
+    height: autp;
 }
 
 .delta4 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
-    left: 64.7%;
+    height: auto;
+    left: 62.7%;
     top: 51%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 27%;
 }
 
 .delta4 img {
-    width: 271px;
-    height: 85%;
+    width: 100%;
+    height: auto;
 }
 
 
@@ -400,16 +395,15 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 37.1%;
     top: 33.7%;
     z-index: 10;
     cursor: pointer;
-    /* -webkit-animation: infinite 1s;
-              animation: infinite 1s; */
+    width: 27%;
 }
 
 .del img {
-    width: 392.3px;
-    height: 46%;
+    width: 100%;
+    height: auto;
 }

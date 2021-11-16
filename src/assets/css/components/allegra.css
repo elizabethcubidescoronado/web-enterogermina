@@ -25,6 +25,7 @@
     height: 83%;
 }
 
+
 /* slider2 */
 
 .ale1 {
@@ -40,17 +41,19 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 8.7%;
     top: 45.3%;
     z-index: 10;
     cursor: pointer;
+    width: 64%;
 }
 
 .ban1 img {
-    width: 713px;
-    height: 77%;
+    width: 100%;
+    height: auto;
 }
+
 
 /* slider3 */
 
@@ -67,65 +70,70 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 6.1%;
-    top: 38.3%;
+    top: 37.3%;
     z-index: 10;
     cursor: pointer;
+    width: 39%;
 }
 
 .banner img {
-    width: 413px;
-    height: 53%;
+    width: 100%;
+    height: auto;
 }
 
 .banner1 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 6.2%;
     top: 63.1%;
     z-index: 10;
     cursor: pointer;
+    width: 27%;
 }
 
 .banner1 img {
-    width: 287.8px;
-    height: 42%;
+    width: 100%;
+    height: auto;
 }
 
 .banner2 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
-    left: 37%;
+    height: auto;
+    left: 36%;
     top: 64.6%;
     z-index: 10;
     cursor: pointer;
+    width: 28%;
 }
 
 .banner2 img {
-    width: 279px;
-    height: 32%;
+    width: 100%;
+    height: auto;
 }
 
 .banner3 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
-    left: 68.4%;
+    height: auto;
+    left: 67.1%;
     top: 64.6%;
     z-index: 10;
     cursor: pointer;
+    width: 28%;
 }
 
 .banner3 img {
-    width: 258.5px;
-    height: 31.9%;
+    width: 100%;
+    height: auto;
 }
+
 
 /* slider4 */
 
@@ -142,33 +150,36 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 36.8%;
     top: 32.3%;
     z-index: 10;
     cursor: pointer;
+    width: 56%;
 }
 
 .banner4 img {
-    width: 580px;
-    height: 40%;
+    width: 100%;
+    height: auto;
 }
 
 .banner5 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 54.7%;
-    top: 46.9%;
+    top: 44.9%;
     z-index: 10;
     cursor: pointer;
+    width: 44%;
 }
 
 .banner5 img {
-    width: 450px;
-    height: 90.9%;
+    width: 100%;
+    height: auto;
 }
+
 
 /* slider5 */
 
@@ -185,81 +196,87 @@
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 7.5%;
     top: 23%;
     z-index: 10;
     cursor: pointer;
+    width: 45.3%;
 }
 
 .banner6 img {
-    width: 553.4px;
-    height: 72%;
+    width: 100%;
+    height: auto;
 }
 
 .banner7 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 7.7%;
     top: 46.1%;
     z-index: 10;
     cursor: pointer;
+    width: 23.2%;
 }
 
 .banner7 img {
-    width: 256px;
-    height: 39.9%;
+    width: 100%;
+    height: auto;
 }
 
 .banner8 img {
-    width: 258.8px;
-    height: 51.9%;
+    width: 100%;
+    height: auto;
 }
 
 .banner8 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 7.5%;
     top: 64.3%;
     z-index: 10;
     cursor: pointer;
+    width: 23.2%;
 }
 
 .banner9 img {
-    width: 265.6px;
-    height: 49.4%;
+    width: 100%;
+    height: auto;
 }
 
 .banner9 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 37.6%;
     top: 44.7%;
     z-index: 10;
     cursor: pointer;
+    width: 23.2%;
 }
 
 .banner10 img {
-    width: 269.2px;
-    height: 61.7%;
+    width: 100%;
+    height: auto;
 }
 
 .banner10 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 37.5%;
     top: 62.9%;
     z-index: 10;
     cursor: pointer;
+    width: 23.2%;
 }
+
 
 /* slider6 */
 
@@ -273,40 +290,42 @@
 }
 
 .banner11 img {
-    width: 685.7px;
-    height: 85.8%;
+    width: 100%;
+    height: auto;
 }
 
 .banner11 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 30.5%;
     top: 31.8%;
     z-index: 10;
     cursor: pointer;
+    width: 63%;
 }
 
 .banner12 img {
-    width: 297.7px;
-    height: 51.5%;
+    width: 100%;
+    height: auto;
 }
 
 .banner12 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 5.7%;
     top: 62.8%;
     z-index: 10;
     cursor: pointer;
+    width: 28%;
 }
 
 .banner13 img {
-    width: 253.5px;
-    height: 63%;
+    width: 100%;
+    height: auto;
 }
 
 .banner13 {
@@ -315,26 +334,29 @@
     position: absolute;
     height: 28%;
     left: 38.2%;
-    top: 60.8%;
+    top: 59.8%;
     z-index: 10;
     cursor: pointer;
+    width: 24%;
 }
 
 .banner14 img {
-    width: 251.8px;
-    height: 55.9%;
+    width: 100%;
+    height: auto;
 }
 
 .banner14 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 68.7%;
     top: 61.6%;
     z-index: 10;
     cursor: pointer;
+    width: 25%;
 }
+
 
 /* slider7 */
 
@@ -348,52 +370,56 @@
 }
 
 .part img {
-    width: 411.8px;
-    height: 68.9%;
+    width: 100%;
+    height: auto;
 }
 
 .part {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: -0.3%;
     top: 61.4%;
     z-index: 10;
     cursor: pointer;
+    width: 34%;
 }
 
 .part1 img {
-    width: 258.2px;
-    height: 41.8%;
+    width: 100%;
+    height: auto;
 }
 
 .part1 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 37.9%;
     top: 65.2%;
     z-index: 10;
     cursor: pointer;
+    width: 24%;
 }
 
 .part2 img {
-    width: 288.2px;
-    height: 70.8%;
+    width: 100%;
+    height: auto;
 }
 
 .part2 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 66.9%;
     top: 61.2%;
     z-index: 10;
     cursor: pointer;
+    width: 26%;
 }
+
 
 /* slaider8 */
 
@@ -407,24 +433,25 @@
 }
 
 .part3 img {
-    width: 267.2px;
-    height: 55.8%;
+    width: 100%;
+    height: auto;
 }
 
 .part3 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 23.1%;
     top: 31.8%;
     z-index: 10;
     cursor: pointer;
+    width: 24%;
 }
 
 .part4 img {
-    width: 186.2px;
-    height: 69.8%;
+    width: 100%;
+    height: auto;
 }
 
 .part4 {
@@ -435,56 +462,61 @@
     left: 56.4%;
     top: 28.8%;
     z-index: 10;
+    width: 16%;
     cursor: pointer;
 }
 
 .part5 img {
-    width: 230.4px;
-    height: 56.8%;
+    width: 100%;
+    height: auto;
 }
 
 .part5 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 10.2%;
     top: 54.5%;
     z-index: 10;
     cursor: pointer;
+    width: 22%;
 }
 
 .part6 img {
-    width: 257.7px;
-    height: 84.2%;
+    width: 100%;
+    height: auto;
 }
 
 .part6 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 39.3%;
     top: 51.1%;
     z-index: 10;
     cursor: pointer;
+    width: 22%;
 }
 
 .part7 img {
-    width: 217.1px;
-    height: 79.2%;
+    width: 100%;
+    height: auto;
 }
 
 .part7 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 69%;
     top: 53.7%;
     z-index: 10;
     cursor: pointer;
+    width: 20%;
 }
+
 
 /* slaider9 */
 
@@ -498,52 +530,56 @@
 }
 
 .part8 img {
-    width: 306.1px;
-    height: 26.2%;
+    width: 100%;
+    height: auto;
 }
 
 .part8 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 5%;
     top: 26.2%;
     z-index: 10;
     cursor: pointer;
+    width: 28%;
 }
 
 .part9 img {
-    width: 587.1px;
-    height: 72.2%;
+    width: 100%;
+    height: auto;
 }
 
 .part9 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 5%;
     top: 36.5%;
     z-index: 10;
     cursor: pointer;
+    width: 54%;
 }
 
 .part10 img {
-    width: 290.1px;
-    height: 56.5%;
+    width: 100%;
+    height: auto;
 }
 
 .part10 {
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
-    height: 28%;
+    height: auto;
     left: 67.3%;
     top: 38.5%;
     z-index: 10;
     cursor: pointer;
+    width: 27%;
 }
+
 
 /* slaider10 */
 
@@ -555,6 +591,7 @@
     height: 100%;
     overflow: hidden;
 }
+
 
 /* pop up */
 
@@ -586,10 +623,11 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 160px;
-    left: 779px;
+    top: 21%;
+    left: 72%;
     cursor: pointer;
 }
+
 
 /* pop up1 */
 
@@ -626,6 +664,7 @@
     cursor: pointer;
 }
 
+
 /* pop up2*/
 
 .lupita1 {
@@ -660,6 +699,7 @@
     left: 905px;
     cursor: pointer;
 }
+
 
 /* pop up3 */
 
@@ -726,6 +766,7 @@
     cursor: pointer;
 }
 
+
 /* pop up3 */
 
 .lupita12 {
@@ -756,8 +797,8 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 113px;
-    left: 916px;
+    top: 19%;
+    left: 88%;
     cursor: pointer;
 }
 
@@ -789,7 +830,7 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 113px;
-    left: 916px;
+    top: 19%;
+    left: 82%;
     cursor: pointer;
 }
