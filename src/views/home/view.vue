@@ -7,7 +7,7 @@
       <img src="/images/up.png" alt="" />
     </div>
     <div>
-        <img class="titulo animate__animated animate__fadeInDown" src="images/FR.png" alt="">
+        <img class="titulo101 animate__animated animate__fadeInDown" src="images/FR.png" alt="">
     </div>
 
     <!-- navegacion -->
