@@ -7,7 +7,7 @@
     <!-- pop up -->
     <div class="popup01" style="display: none">
       <img id="ope" src="/images/popbuscapina.jpg" alt="" />
-      <div class="cerrar20" @click.prevent="closeModal"></div>
+      <div class="cerrar201" @click.prevent="closeModal"></div>
     </div>
 
     <!-- navegacion -->

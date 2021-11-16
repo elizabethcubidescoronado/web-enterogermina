@@ -7,7 +7,7 @@
     <!-- pop up -->
     <div class="popuprt" style="display: none">
       <img id="ope" src="/images/pot5.jpg" alt="" />
-      <div class="cerrar60" @click.prevent="closeModal"></div>
+      <div class="cerrar601" @click.prevent="closeModal"></div>
     </div>
 
     <!-- navegacion -->
