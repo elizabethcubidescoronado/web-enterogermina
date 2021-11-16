@@ -1,330 +1,338 @@
-/* slider1 */
-
-.pharma {
-    background-image: url("/images/pharma.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-
-.parma {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 19.7%;
-    top: 21.3%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.parma img {
-    width: 647px;
-    height: 108%;
-}
-
-/* slider2 */
-
-.parma1 {
-    background-image: url("/images/pharma1.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-
-.part3-1 img {
-    width: 267.2px;
-    height: 61%;
-}
-
-.part3-1 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 23.1%;
-    top: 29.8%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.part3-2 img {
-    width: 267.7px;
-    height: 63.5%;
-}
-
-.part3-2 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 52%;
-    top: 28.8%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.part3-3 img {
-    width: 253.4px;
-    height: 64.5%;
-}
-
-.part3-3 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 9.2%;
-    top: 53.5%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.part3-4 img {
-    width: 277.4px;
-    height: 82.6%;
-}
-
-.part3-4 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 37.1%;
-    top: 51.1%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.part3-5 img {
-    width: 266.7px;
-    height: 51.9%;
-}
-
-.part3-5 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 66.6%;
-    top: 56.5%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-/* slider3 */
-
-.pharma2 {
-    background-image: url("/images/pharma2.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-
-.titulo img {
-    width: 496.5px;
-    height: 30.8%;
-}
-
-.titulo {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 4.6%;
-    top: 23.5%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.text img {
-    width: 581.4px;
-    height: 40.9%;
-}
-
-.text {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 4.9%;
-    top: 35.6%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.text1 img {
-    width: 567.3px;
-    height: 64.6%;
-}
-
-.text1 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 4.9%;
-    top: 50.6%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-/* slider4 */
-
-.pharma3 {
-    background-image: url("/images/pharma3.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-
-.text2 img {
-    width: 434px;
-    height: 181.2%;
-}
-
-.text2 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 7.2%;
-    top: 38.3%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.text3 img {
-    width: 479.8px;
-    height: 181.4%
-}
-
-.text3 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 50.4%;
-    top: 38.2%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-/* slider4 */
-
-.pharma4 {
-    background-image: url("/images/pharma5.jpg");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-
-.text4 img {
-    width: 381.6px;
-    height: 28.3%;
-}
-
-.text4 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 4.4%;
-    top: 20.2%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-.text5 img {
-    width: 762.6px;
-    height: 113.3%;
-}
-
-.text5 {
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    height: 28%;
-    left: 22.2%;
-    top: 36.2%;
-    z-index: 10;
-    cursor: pointer;
-}
-
-/* pop up */
-
-.lupita1 {
-    position: absolute;
-    top: 45%;
-    left: 42%;
-    height: 15.1%;
-    width: 7%;
-    height: 10%;
-    cursor: pointer;
-    z-index: 100;
-}
-
-.popup90 {
-    z-index: 1000;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
-
-.popup90 img {
-    width: 100%;
-    height: 100%;
-}
-
-.cerrar66 {
-    width: 6%;
-    height: 10%;
-    position: absolute;
-    z-index: 11;
-    top: 45px;
-    left: 882px;
-    cursor: pointer;
-}
-
-.lupita5 {
-    position: absolute;
-    top: 46%;
-    left: 87.4%;
-    height: 15.1%;
-    width: 7%;
-    height: 10%;
-    cursor: pointer;
-    z-index: 100;
-}
-
-.popup50 {
-    z-index: 1000;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
-
-.popup50 img {
-    width: 100%;
-    height: 100%;
-}
-
-.cerrar68 {
-    width: 6%;
-    height: 10%;
-    position: absolute;
-    z-index: 11;
-    top: 46px;
-    left: 881px;
-    cursor: pointer;
-}
+    /* slider1 */
+    
+    .pharma {
+        background-image: url("/images/pharma.jpg");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    
+    .parma {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 19.7%;
+        top: 21.3%;
+        z-index: 10;
+        cursor: pointer;
+        width: 25%;
+    }
+    
+    .parma img {
+        width: 100%;
+        height: auto;
+    }
+    /* slider2 */
+    
+    .parma1 {
+        background-image: url("/images/pharma1.jpg");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    
+    .part3-1 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .part3-1 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 23.1%;
+        top: 29.8%;
+        z-index: 10;
+        cursor: pointer;
+        width: 25%;
+    }
+    
+    .part3-2 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .part3-2 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 52%;
+        top: 28.8%;
+        z-index: 10;
+        cursor: pointer;
+        width: 25%;
+    }
+    
+    .part3-3 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .part3-3 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 9.2%;
+        top: 53.5%;
+        z-index: 10;
+        cursor: pointer;
+        width: 24%;
+    }
+    
+    .part3-4 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .part3-4 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 37.1%;
+        top: 51.1%;
+        z-index: 10;
+        cursor: pointer;
+        width: 25%;
+    }
+    
+    .part3-5 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .part3-5 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 66.6%;
+        top: 56.5%;
+        z-index: 10;
+        cursor: pointer;
+        width: 25%;
+    }
+    /* slider3 */
+    
+    .pharma2 {
+        background-image: url("/images/pharma2.jpg");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    
+    .titulo img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .titulo {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 4.6%;
+        top: 23.5%;
+        z-index: 10;
+        cursor: pointer;
+        width: 46%;
+    }
+    
+    .text img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .text {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 4.9%;
+        top: 35.6%;
+        z-index: 10;
+        cursor: pointer;
+        width: 53%;
+    }
+    
+    .text1 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .text1 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 4.9%;
+        top: 50.6%;
+        z-index: 10;
+        cursor: pointer;
+        width: 52%;
+    }
+    /* slider4 */
+    
+    .pharma3 {
+        background-image: url("/images/pharma3.jpg");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    
+    .text2 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .text2 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 7.2%;
+        top: 38.3%;
+        z-index: 10;
+        cursor: pointer;
+        width: 37%;
+    }
+    
+    .text3 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .text3 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 50.4%;
+        top: 38.2%;
+        z-index: 10;
+        cursor: pointer;
+        width: 39%;
+    }
+    /* slider4 */
+    
+    .pharma4 {
+        background-image: url("/images/pharma5.jpg");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    
+    .text4 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .text4 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 4.8%;
+        top: 19.7%;
+        z-index: 10;
+        cursor: pointer;
+        width: 35%;
+    }
+    
+    .text5 img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .text5 {
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        height: auto;
+        left: 22.2%;
+        top: 35.8%;
+        z-index: 10;
+        cursor: pointer;
+        width: 71%;
+    }
+    /* pop up */
+    
+    .lupita1 {
+        position: absolute;
+        top: 45%;
+        left: 39%;
+        height: 15.1%;
+        width: 7%;
+        height: 10%;
+        cursor: pointer;
+        z-index: 100;
+    }
+    
+    .popup90 {
+        z-index: 1000;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .popup90 img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .cerrar66 {
+        width: 6%;
+        height: 10%;
+        position: absolute;
+        z-index: 11;
+        top: 7%;
+        left: 82%;
+        cursor: pointer;
+    }
+    
+    .lupita5 {
+        position: absolute;
+        top: 46%;
+        left: 82.4%;
+        height: 15.1%;
+        width: 7%;
+        height: 10%;
+        cursor: pointer;
+        z-index: 100;
+    }
+    
+    .popup50 {
+        z-index: 1000;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .popup50 img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    .cerrar68 {
+        width: 6%;
+        height: 10%;
+        position: absolute;
+        z-index: 11;
+        top: 5%;
+        left: 82%;
+        cursor: pointer;
+    }
