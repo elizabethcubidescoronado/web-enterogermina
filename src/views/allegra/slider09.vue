@@ -12,7 +12,7 @@
 
     <!-- modal -->
     <div class="lupita0" @click.prevent="openModal"></div>
-    <div class="lupita1" @click.prevent="openModal1"></div>
+    <div class="lupita-1" @click.prevent="openModal1"></div>
     <div class="lupita2" @click.prevent="openModal2"></div>
 
     <!-- pop up 1-->
