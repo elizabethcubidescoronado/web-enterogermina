@@ -7,10 +7,10 @@
       <img src="/images/up.png" alt="" />
     </div>
     <div class="espora_azul animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="8.5%" width="8.5%" />
+      <img src="/images/bola-azul.png" alt="" height="8.5%" width="8.5%" />
     </div>
     <div class="espora_azul1 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="55%" width="55%" />
+      <img src="/images/bola-azul.png" alt="" height="55%" width="55%" />
     </div>
     <div class="espora_azul2 animate__animated animate__fadeInDown">
       <img src="/images/bola-verde.png" alt="" height="35%" width="35%" />
