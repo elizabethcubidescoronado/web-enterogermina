@@ -1,10 +1,10 @@
 <template>
   <div class="fondo">
     <div class="foto1 animate__animated animate__tada">
-      <img src="/images/u1.png" alt="" />
+      <img src="/images/entero1.png" alt="" />
     </div>
     <div class="foto2 animate__animated animate__pulse slow">
-      <img src="/images/up.png" alt="" />
+      <img src="/images/entero.png" alt="" />
     </div>
     <div class="espora_azul animate__animated animate__fadeInDown">
       <img src="/images/bola-azul.png" alt="" height="8.5%" width="8.5%" />
