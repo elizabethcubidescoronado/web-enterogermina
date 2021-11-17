@@ -1,6 +1,8 @@
 <template>
   <div class="buscapin">
-    
+    <div class="busca123 animate__animated animate__fadeInDown">
+      <img src="/images/busca123.png" alt="" />
+    </div>
 
     <!-- navegacion -->
     <router-link class="boton" to="/buscapina/02"></router-link>

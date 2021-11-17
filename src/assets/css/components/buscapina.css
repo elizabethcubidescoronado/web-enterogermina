@@ -8,7 +8,27 @@
     height: 100%;
     overflow: hidden;
 }
-
+.busca123{
+    position: absolute;
+    width: 61%;
+    left: 19%;
+    top: 16%;
+}
+.busca123 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin5{
+    position: absolute;
+    width: 41.6%;
+    left: 6.2%;
+    top: 27.5%;
+    height: 23.1%;
+}
+.buscapin5 img {
+    width: 100%;
+    height: auto;
+}
 
 /* slider2 */
 

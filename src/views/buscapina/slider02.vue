@@ -1,7 +1,8 @@
 <template>
   <div class="buscapin1">
-
-
+    <div class="buscapin5 animate__animated animate__fadeInDown">
+      <img src="/images/buscapin5.png" alt="" />
+    </div>
 
     <!-- modal -->
     <div class="lupap2" @click.prevent="openModal"></div>
