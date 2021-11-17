@@ -1,5 +1,8 @@
 <template>
   <div class="fondo4">
+    <div class="heder animate__animated animate__rotateInDownRight">
+      <img src="/images/header.png" alt="" />
+    </div>
     <div class="lat animate__animated animate__rotateInDownRight">
       <img src="/images/lat.png" alt="" />
     </div>
@@ -21,7 +24,9 @@
     <div class="espora_azul-123 animate__animated animate__fadeInDown">
       <img src="/images/bola-azul.png" alt="" height="9%" width="9%" />
     </div>
-
+    <div class="espora_naranja155 animate__animated animate__fadeInDown">
+      <img src="/images/bola-naranja.png" alt="" height="7%" width="7%" />
+    </div>
     <!-- pop up -->
     <div class="popup" style="display: none">
       <img id="ope" src="/images/popup.jpg" alt="" />

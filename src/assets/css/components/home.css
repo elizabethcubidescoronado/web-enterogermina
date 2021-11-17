@@ -7,6 +7,19 @@
     overflow: hidden;
     position: absolute;
 }
+.heder {
+    position: absolute;
+    height: 14%;
+    left: -0.2%;
+    top: -1%;
+    width: 94%;
+    z-index: 1;
+}
+
+.heder img {
+    width: 108%;
+    height: auto;
+}
 
 .foto1 {
     position: absolute;
@@ -335,6 +348,11 @@
     left: 94%;
     top: 77%;
 }
+.espora_naranja155{
+    position: absolute;
+    left: -1.5%;
+    top: 9%;
+}
 /* Navegacion */
 
 .nest {
@@ -377,6 +395,11 @@
     position: absolute;
     left: 1%;
     top: 56%;
+}
+.espora_naranja-245{
+    position: absolute;
+    left: 94%;
+    top: 1%
 }
 
 /* Navegacion */
