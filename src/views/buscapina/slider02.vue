@@ -1,7 +1,13 @@
 <template>
   <div class="buscapin1">
-    <div class="buscapin5 animate__animated animate__fadeInDown">
+    <div class="buscapin5 animate__animated animate__backInLeft">
       <img src="/images/buscapin5.png" alt="" />
+    </div>
+    <div class="buscapin6 animate__animated animate__backInLeft">
+      <img src="/images/buscapin6.png" alt="" />
+    </div>
+    <div class="buscapin7 animate__animated animate__backInRight">
+      <img src="/images/buscapin7.png" alt="" />
     </div>
 
     <!-- modal -->

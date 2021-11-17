@@ -1,5 +1,14 @@
 <template>
   <div class="buscap">
+    <div class="buscapin8 animate__animated animate__backInUp">
+      <img src="/images/buscapin8.png" alt="" />
+    </div>
+    <div class="buscapin9 animate__animated animate__backInLeft">
+      <img src="/images/buscapin9.png" alt="" />
+    </div>
+    <div class="buscapin10 animate__animated animate__backInRight">
+      <img src="/images/buscapin10.png" alt="" />
+    </div>
 
     <!-- modal -->
     <div class="lupaR00" @click.prevent="openModal"></div>
@@ -12,7 +21,7 @@
       <div class="cerrar41" @click.prevent="closeModal"></div>
     </div>
 
-     <!-- pop up 2-->
+    <!-- pop up 2-->
     <div class="popup19" style="display: none">
       <img id="ope1" src="/images/port13.jpg" alt="" />
       <div class="cerrar81" @click.prevent="closeModal1"></div>
@@ -23,12 +32,10 @@
       <img id="ope2" src="/images/port14.jpg" alt="" />
       <div class="cerrar105" @click.prevent="closeModal2"></div>
     </div>
-    
 
     <!-- navegacion -->
     <router-link class="boton1" to="/buscapina/04"></router-link>
     <router-link class="after" to="/buscapina/02"></router-link>
-
 
     <router-link class="home" to="/"></router-link>
     <router-link class="enterogermina" to="/enterogermina/01"></router-link>
@@ -40,29 +47,29 @@
   </div>
 </template>
 <script>
-import $ from 'jquery'
+import $ from "jquery";
 export default {
   name: "Buscapina_03",
 
   methods: {
-      closeModal(){
-          $('.popup40').css('display', 'none')
-      },
-      openModal(){
-          $('.popup40').css('display', 'block')
-      },
-      closeModal1(){
-          $('.popup19').css('display', 'none')
-      },
-      openModal1(){
-          $('.popup19').css('display', 'block')
-      },
-      closeModal2(){
-          $('.popup102').css('display', 'none')
-      },
-      openModal2(){
-          $('.popup102').css('display', 'block')
-      }
-  }
+    closeModal() {
+      $(".popup40").css("display", "none");
+    },
+    openModal() {
+      $(".popup40").css("display", "block");
+    },
+    closeModal1() {
+      $(".popup19").css("display", "none");
+    },
+    openModal1() {
+      $(".popup19").css("display", "block");
+    },
+    closeModal2() {
+      $(".popup102").css("display", "none");
+    },
+    openModal2() {
+      $(".popup102").css("display", "block");
+    },
+  },
 };
 </script>

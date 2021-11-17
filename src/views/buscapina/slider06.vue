@@ -1,6 +1,14 @@
 <template>
   <div class="buscap7">
-
+    <div class="buscapin20 animate__animated animate__fadeInDownBig">
+      <img src="/images/buscapin20.png" alt="" />
+    </div>
+    <div class="buscapin21 animate__animated animate__fadeInUpBig">
+      <img src="/images/buscapin21.png" alt="" />
+    </div>
+    <div class="buscapin22 animate__animated animate__fadeInUpBig">
+      <img src="/images/buscapin22.png" alt="" />
+    </div>
     <!-- modal -->
     <div class="lupam8" @click.prevent="openModal"></div>
 
@@ -14,7 +22,6 @@
     <!-- <router-link class="boton1" to="/buscapina/07"></router-link> -->
     <router-link class="after" to="/buscapina/05"></router-link>
 
-
     <router-link class="home" to="/"></router-link>
     <router-link class="enterogermina" to="/enterogermina/01"></router-link>
     <router-link class="dulcolax" to="/dulcolax/01"></router-link>
@@ -25,19 +32,17 @@
   </div>
 </template>
 <script>
-import $ from 'jquery'
+import $ from "jquery";
 export default {
   name: "Buscapina_06",
 
   methods: {
-      closeModal(){
-          $('.popuprt').css('display', 'none')
-      },
-      openModal(){
-          $('.popuprt').css('display', 'block')
-      }
-      }
-
-
+    closeModal() {
+      $(".popuprt").css("display", "none");
+    },
+    openModal() {
+      $(".popuprt").css("display", "block");
+    },
+  },
 };
 </script>

@@ -13,11 +13,13 @@
     <div class="part6 animate__animated animate__backInLeft">
       <img src="/images/part6.png" alt="" />
     </div>
-        <div class="part7 animate__animated animate__backInDown">
+    <div class="part7 animate__animated animate__backInDown">
       <img src="/images/part7.png" alt="" />
     </div>
-
-        <!-- modal -->
+    <div class="part18 animate__animated animate__backInDown">
+      <img src="/images/part18.png" alt="" />
+    </div>
+    <!-- modal -->
     <div class="lupita" @click.prevent="openModal"></div>
 
     <!-- pop up -->

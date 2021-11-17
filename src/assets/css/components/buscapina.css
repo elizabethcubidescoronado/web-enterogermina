@@ -20,16 +20,38 @@
 }
 .buscapin5{
     position: absolute;
-    width: 41.6%;
-    left: 6.2%;
-    top: 27.5%;
-    height: 23.1%;
+    width: 41.3%;
+    left: 6.3%;
+    top: 27.2%;
+    height: 23.6%;
 }
 .buscapin5 img {
     width: 100%;
     height: auto;
 }
+.buscapin6{
+    position: absolute;
+    width: 41.5%;
+    left: 53.1%;
+    top: 29.3%;
+    height: 23.6%;
+}
+.buscapin6 img {
+    width: 100%;
+    height: auto;
+}
 
+.buscapin7{
+    position: absolute;
+    width: 99.5%;
+    left: 0.3%;
+    top: 58.8%;
+    height: 23.6%;
+}
+.buscapin7 img {
+    width: 100%;
+    height: auto;
+}
 /* slider2 */
 
 .buscapin1 {
@@ -104,8 +126,39 @@
     height: 100%;
     overflow: hidden;
 }
-
-
+.buscapin8{
+    position: absolute;
+    width: 45%;
+    left: 10.1%;
+    top: 24.3%;
+    height: 34%;
+}
+.buscapin8 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin9{
+    position: absolute;
+    width: 85.1%;
+    left: 4.8%;
+    top: 37%;
+    height: 22%;
+}
+.buscapin9 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin10{
+    position: absolute;
+    width: 68.2%;
+    left: 15.8%;
+    top: 66%;
+    height: 22%;
+}
+.buscapin10 img {
+    width: 100%;
+    height: auto;
+}
 /* poppuo */
 
 .lupaR9 {
@@ -234,7 +287,61 @@
     overflow: hidden;
 }
 
-
+.buscapin11{
+    position: absolute;
+    width: 76.2%;
+    left: 12.8%;
+    top: 36.6%;
+    height: 21%;
+}
+.buscapin11 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin12{
+    position: absolute;
+    width: 58.6%;
+    left: 20.7%;
+    top: 52.5%;
+    height: 21%;
+}
+.buscapin12 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin13{
+    position: absolute;
+    width: 84.6%;
+    left: 8.4%;
+    top: 67.8%;
+    height: 21%;
+}
+.buscapin13 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin14{
+    position: absolute;
+    width: 91.6%;
+    left: 4.8%;
+    top: 81.1%;
+    height: 21%;
+}
+.buscapin14 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin15{
+    position: absolute;
+    width: 24.8%;
+    left: 38.2%;
+    top: 14.1%;
+    height: 22%;
+}
+.buscapin15 img {
+    width: 100%;
+    height: auto;
+}
 /* poppuo */
 
 .lupaR00 {
@@ -464,6 +571,50 @@
     overflow: hidden;
 }
 
+.buscapin16{
+    position: absolute;
+    width: 52.8%;
+    left: 9.2%;
+    top: 20.4%;
+    height: 19.4%;
+}
+.buscapin16 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin17{
+    position: absolute;
+    width: 53%;
+    left: 9.2%;
+    top: 39.9%;
+    height: 27.4%;
+}
+.buscapin17 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin18{
+    position: absolute;
+    width: 53%;
+    left: 9%;
+    top: 62.1%;
+    height: 27.4%;
+}
+.buscapin18 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin19{
+    position: absolute;
+    width: 30.2%;
+    left: 63.3%;
+    top: 15.7%;
+    height: 75.4%;
+}
+.buscapin19 img {
+    width: 100%;
+    height: auto;
+}
 
 /* slider6*/
 
@@ -510,4 +661,37 @@
     top: 15%;
     left: 86%;
     cursor: pointer;
+}
+.buscapin20{
+    position: absolute;
+    width: 90.2%;
+    left: 4.8%;
+    top: 52.5%;
+    height: 24.4%;
+}
+.buscapin20 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin21{
+    position: absolute;
+    width: 5.2%;
+    left: 16.4%;
+    top: 72%;
+    height: 24.4%;
+}
+.buscapin21 img {
+    width: 100%;
+    height: auto;
+}
+.buscapin22{
+    position: absolute;
+    width: 75.6%;
+    left: 4.7%;
+    top: 29.5%;
+    height: 24.4%;
+}
+.buscapin22 img {
+    width: 100%;
+    height: auto;
 }

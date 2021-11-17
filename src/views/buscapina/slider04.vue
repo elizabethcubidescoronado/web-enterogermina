@@ -1,6 +1,20 @@
 <template>
   <div class="buscap4">
-
+    <div class="buscapin11 animate__animated animate__backInRight">
+      <img src="/images/buscapin11.png" alt="" />
+    </div>
+    <div class="buscapin12 animate__animated animate__backInRight">
+      <img src="/images/buscapin12.png" alt="" />
+    </div>
+    <div class="buscapin13 animate__animated animate__fadeInLeftBig">
+      <img src="/images/buscapin13.png" alt="" />
+    </div>
+    <div class="buscapin14 animate__animated animate__fadeInRightBig">
+      <img src="/images/buscapin14.png" alt="" />
+    </div>
+    <div class="buscapin15 animate__animated animate__fadeInLeftBig">
+      <img src="/images/buscapin15.png" alt="" />
+    </div>
     <!-- modal -->
     <div class="lupam1" @click.prevent="openModal"></div>
     <div class="lupaRm2" @click.prevent="openModal1"></div>
@@ -13,7 +27,7 @@
       <div class="cerrar51" @click.prevent="closeModal"></div>
     </div>
 
-     <!-- pop up 2-->
+    <!-- pop up 2-->
     <div class="popup52" style="display: none">
       <img id="ope1" src="/images/pot2.jpg" alt="" />
       <div class="cerrar53" @click.prevent="closeModal1"></div>
@@ -30,12 +44,10 @@
       <img id="ope2" src="/images/pot4.jpg" alt="" />
       <div class="cerrar57" @click.prevent="closeModal3"></div>
     </div>
-    
 
     <!-- navegacion -->
     <router-link class="boton1" to="/buscapina/05"></router-link>
     <router-link class="after" to="/buscapina/03"></router-link>
-
 
     <router-link class="home" to="/"></router-link>
     <router-link class="enterogermina" to="/enterogermina/01"></router-link>
@@ -47,35 +59,35 @@
   </div>
 </template>
 <script>
-import $ from 'jquery'
+import $ from "jquery";
 export default {
   name: "Buscapina_04",
 
   methods: {
-      closeModal(){
-          $('.popup50').css('display', 'none')
-      },
-      openModal(){
-          $('.popup50').css('display', 'block')
-      },
-      closeModal1(){
-          $('.popup52').css('display', 'none')
-      },
-      openModal1(){
-          $('.popup52').css('display', 'block')
-      },
-      closeModal2(){
-          $('.popup54').css('display', 'none')
-      },
-      openModal2(){
-          $('.popup54').css('display', 'block')
-      },
-      closeModal3(){
-          $('.popup56').css('display', 'none')
-      },
-      openModal3(){
-          $('.popup56').css('display', 'block')
-      }
-  }
+    closeModal() {
+      $(".popup50").css("display", "none");
+    },
+    openModal() {
+      $(".popup50").css("display", "block");
+    },
+    closeModal1() {
+      $(".popup52").css("display", "none");
+    },
+    openModal1() {
+      $(".popup52").css("display", "block");
+    },
+    closeModal2() {
+      $(".popup54").css("display", "none");
+    },
+    openModal2() {
+      $(".popup54").css("display", "block");
+    },
+    closeModal3() {
+      $(".popup56").css("display", "none");
+    },
+    openModal3() {
+      $(".popup56").css("display", "block");
+    },
+  },
 };
 </script>
