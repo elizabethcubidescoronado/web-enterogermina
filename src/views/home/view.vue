@@ -9,16 +9,16 @@
     <div class="espora_azul animate__animated animate__fadeInDown">
       <img src="/images/espora_azul.png" alt="" height="8.5%" width="8.5%" />
     </div>
-    <div class="espora_azul-1 animate__animated animate__fadeInDown">
+    <div class="espora_azul1 animate__animated animate__fadeInDown">
       <img src="/images/espora_azul.png" alt="" height="55%" width="55%" />
     </div>
-    <div class="espora_azul-2 animate__animated animate__fadeInDown">
+    <div class="espora_azul2 animate__animated animate__fadeInDown">
       <img src="/images/espora_verde.png" alt="" height="35%" width="35%" />
     </div>
-    <div class="espora_azul-3-11 animate__animated animate__fadeInDown">
+    <div class="espora_azul311 animate__animated animate__fadeInDown">
       <img src="/images/espora_verde.png" alt="" height="5%" width="5%" />
     </div>
-    <div class="espora_azul-4 animate__animated animate__fadeInDown">
+    <div class="espora_azul4 animate__animated animate__fadeInDown">
       <img src="/images/espora_verde.png" alt="" height="6%" width="6%" />
     </div>
     <div>
