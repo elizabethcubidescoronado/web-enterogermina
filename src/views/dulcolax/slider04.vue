@@ -1,6 +1,6 @@
 <template>
   <div class="dulcolax4">
-    <div class="dul animate__animated animate__lightSpeedInLeft">
+    <div class="dul animate__animated animate__fadeInUp">
       <img src="/images/dul.png" alt="" />
     </div>
     

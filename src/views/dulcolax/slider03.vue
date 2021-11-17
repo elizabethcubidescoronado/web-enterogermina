@@ -1,9 +1,9 @@
 <template>
   <div class="dulcolax3">
-    <div class="been1 animate__animated animate__zoomInDown">
+    <div class="been1 animate__animated animate__backInLeft">
       <img src="/images/been1.png" alt="" />
     </div>
-    <div class="been2 animate__animated animate__rotateInDownRight">
+    <div class="been2 animate__animated animate__backInRight">
       <img src="/images/been2.png" alt="" />
     </div>
 
