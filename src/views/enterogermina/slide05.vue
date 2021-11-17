@@ -9,6 +9,15 @@
     <div class="mark2 animate__animated animate__slideInUp">
       <img src="/images/mark2.png" alt="" />
     </div>
+    <div class="espora_azul-432 animate__animated animate__fadeInDown">
+      <img src="/images/espora_azul.png" alt="" height="185%" width="185%" />
+    </div>
+    <div class="espora_azul-532 animate__animated animate__fadeInDown">
+      <img src="/images/espora_azul.png" alt="" height="7%" width="7%" />
+    </div>
+    <div class="espora_verde-2357 animate__animated animate__fadeInDown">
+      <img src="/images/espora_verde.png" alt="" height="4%" width="4%" />
+    </div>
 
     <div class="lupaR2" @click.prevent="openModal"></div>
     <div class="lupaR3" @click.prevent="openModal1"></div>
@@ -19,7 +28,7 @@
       <div class="cerrar6" @click.prevent="closeModal"></div>
     </div>
 
-     <!-- pop up 2-->
+    <!-- pop up 2-->
     <div class="popup2" style="display: none">
       <img id="ope1" src="/images/pop4.jpg" alt="" />
       <div class="cerrar17" @click.prevent="closeModal1"></div>
@@ -39,22 +48,22 @@
   </div>
 </template> 
 <script>
-import $ from 'jquery'
+import $ from "jquery";
 export default {
   name: "Enterogermina_05",
   methods: {
-      closeModal(){
-          $('.popup1').css('display', 'none')
-      },
-      openModal(){
-          $('.popup1').css('display', 'block')
-      },
-      closeModal1(){
-          $('.popup2').css('display', 'none')
-      },
-      openModal1(){
-          $('.popup2').css('display', 'block')
-      }
-  }
+    closeModal() {
+      $(".popup1").css("display", "none");
+    },
+    openModal() {
+      $(".popup1").css("display", "block");
+    },
+    closeModal1() {
+      $(".popup2").css("display", "none");
+    },
+    openModal1() {
+      $(".popup2").css("display", "block");
+    },
+  },
 };
 </script>
