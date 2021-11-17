@@ -13,13 +13,13 @@
       <img src="/images/purpo4.png" alt="" />
     </div>
     <div class="espora_azul-777 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="185%" width="185%" />
+      <img src="/images/bola-azul.png" alt="" height="185%" width="185%" />
     </div>
     <div class="espora_azul-778 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="7%" width="7%" />
+      <img src="/images/bola-azul.png" alt="" height="7%" width="7%" />
     </div>
     <div class="espora_azul-779 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="12%" width="12%" />
+      <img src="/images/bola-azul.png" alt="" height="12%" width="12%" />
     </div>
 
     <!-- Navegacion -->

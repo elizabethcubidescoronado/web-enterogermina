@@ -21,6 +21,9 @@
     <div class="espora_azul4 animate__animated animate__fadeInDown">
       <img src="/images/bola-verde.png" alt="" height="6%" width="6%" />
     </div>
+    <div class="espora_naranja150 animate__animated animate__fadeInDown">
+      <img src="/images/bola-naranja.png" alt="" height="80%" width="80%" />
+    </div>
     <div>
       <img
         class="titulo101 animate__animated animate__fadeInDown"

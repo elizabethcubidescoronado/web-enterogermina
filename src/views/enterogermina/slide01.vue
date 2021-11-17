@@ -8,19 +8,19 @@
       <img id="pop" src="/images/mage2.png" alt="" />
     </div>
     <div class="espora_azul-1-2-1 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="55%" width="55%" />
+      <img src="/images/bola-azul.png" alt="" height="55%" width="55%" />
     </div>
     <div class="espora_naranja-1 animate__animated animate__fadeInDown">
-      <img src="/images/espora_naranja.png" alt="" height="8%" width="8%" />
+      <img src="/images/bola-naranja.png" alt="" height="8%" width="8%" />
     </div>
     <div class="espora_azul-1-2 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="145%" width="145%" />
+      <img src="/images/bola-azul.png" alt="" height="145%" width="145%" />
     </div>
     <div class="espora_azul-2-1 animate__animated animate__fadeInDown">
-      <img src="/images/espora_verde.png" alt="" height="35%" width="35%" />
+      <img src="/images/bola-verde.png" alt="" height="35%" width="35%" />
     </div>
     <div class="espora_azul-3-1-2 animate__animated animate__fadeInDown">
-      <img src="/images/espora_verde.png" alt="" height="5%" width="5%" />
+      <img src="/images/bola-verde.png" alt="" height="5%" width="5%" />
     </div>
 
     <!-- carrousel -->

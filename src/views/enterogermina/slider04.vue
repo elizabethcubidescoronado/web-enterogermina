@@ -10,13 +10,13 @@
       <img src="/images/lead2.png" alt="" />
     </div>
     <div class="espora_azul-234 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="185%" width="185%" />
+      <img src="/images/bola-azul.png" alt="" height="185%" width="185%" />
     </div>
     <div class="espora_azul-235 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="7%" width="7%" />
+      <img src="/images/bola-azul.png" alt="" height="7%" width="7%" />
     </div>
         <div class="espora_verde-235 animate__animated animate__fadeInDown">
-      <img src="/images/espora_verde.png" alt="" height="4%" width="4%" />
+      <img src="/images/bola-verde.png" alt="" height="4%" width="4%" />
     </div>
 
     <div class="lupaR1" @click.prevent="openModal"></div>

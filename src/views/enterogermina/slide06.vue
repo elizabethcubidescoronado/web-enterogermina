@@ -7,13 +7,13 @@
       <img src="/images/port.png" alt="" />
     </div>
     <div class="espora_azul-555 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="185%" width="185%" />
+      <img src="/images/bola-azul.png" alt="" height="185%" width="185%" />
     </div>
     <div class="espora_azul-556 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="7%" width="7%" />
+      <img src="/images/bola-azul.png" alt="" height="7%" width="7%" />
     </div>
     <div class="espora_verde-557 animate__animated animate__fadeInDown">
-      <img src="/images/espora_verde.png" alt="" height="137%" width="137%" />
+      <img src="/images/bola-verde.png" alt="" height="137%" width="137%" />
     </div>
     <div class="lupaR4" @click.prevent="openModal"></div>
     <div class="lupaR5" @click.prevent="openModal1"></div>

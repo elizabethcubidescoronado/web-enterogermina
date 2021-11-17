@@ -7,22 +7,22 @@
       <img src="/images/po2.png" alt="" />
     </div>
     <div class="espora_azul-1-3 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="13%" width="13%" />
+      <img src="/images/bola-azul.png" alt="" height="13%" width="13%" />
     </div>
     <div class="espora_verde-3-1 animate__animated animate__fadeInDown">
-      <img src="/images/espora_verde.png" alt="" height="4%" width="4%" />
+      <img src="/images/bola-verde.png" alt="" height="4%" width="4%" />
     </div>
     <div class="espora_verde-3-2 animate__animated animate__fadeInDown">
-      <img src="/images/espora_verde.png" alt="" height="7%" width="7%" />
+      <img src="/images/bola-verde.png" alt="" height="7%" width="7%" />
     </div>
     <div class="espora_azul-3 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="85%" width="85%" />
+      <img src="/images/bola-azul.png" alt="" height="85%" width="85%" />
     </div>
     <div class="espora_azul-3-1 animate__animated animate__fadeInDown">
-      <img src="/images/espora_azul.png" alt="" height="8%" width="8%" />
+      <img src="/images/bola-azul.png" alt="" height="8%" width="8%" />
     </div>
     <div class="espora_naranja-2 animate__animated animate__fadeInDown">
-      <img src="/images/espora_naranja.png" alt="" height="125%" width="125%" />
+      <img src="/images/bola-naranja.png" alt="" height="125%" width="125%" />
     </div>
 
     <!-- Navegacion -->
