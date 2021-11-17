@@ -1,7 +1,12 @@
 <template>
   <div class="sym">
-    
-    
+    <div class="symel1 animate__animated animate__fadeInDown">
+      <img src="/images/symel1.png" alt="" />
+    </div>
+    <div class="symel2 animate__animated animate__fadeInUp">
+      <img src="/images/symel2.png" alt="" />
+    </div>
+
     <!-- modal -->
     <div class="lupaR9" @click.prevent="openModal"></div>
     <div class="lupaR0" @click.prevent="openModal1"></div>
@@ -13,7 +18,7 @@
       <div class="cerrar77" @click.prevent="closeModal"></div>
     </div>
 
-     <!-- pop up 2-->
+    <!-- pop up 2-->
     <div class="popup1" style="display: none">
       <img id="ope1" src="/images/pop-esent1.jpg" alt="" />
       <div class="cerrar8" @click.prevent="closeModal1"></div>
@@ -39,28 +44,28 @@
   </div>
 </template> 
 <script>
-import $ from 'jquery'
+import $ from "jquery";
 export default {
   name: "Esentiale_05",
   methods: {
-      closeModal(){
-          $('.popup0').css('display', 'none')
-      },
-      openModal(){
-          $('.popup0').css('display', 'block')
-      },
-      closeModal1(){
-          $('.popup1').css('display', 'none')
-      },
-      openModal1(){
-          $('.popup1').css('display', 'block')
-      },
-      closeModal2(){
-          $('.popup10').css('display', 'none')
-      },
-      openModal2(){
-          $('.popup10').css('display', 'block')
-      }
-  }
+    closeModal() {
+      $(".popup0").css("display", "none");
+    },
+    openModal() {
+      $(".popup0").css("display", "block");
+    },
+    closeModal1() {
+      $(".popup1").css("display", "none");
+    },
+    openModal1() {
+      $(".popup1").css("display", "block");
+    },
+    closeModal2() {
+      $(".popup10").css("display", "none");
+    },
+    openModal2() {
+      $(".popup10").css("display", "block");
+    },
+  },
 };
 </script>

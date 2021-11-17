@@ -26,7 +26,6 @@
     height: auto;
 }
 
-
 /* slider2 */
 
 .red {
@@ -56,7 +55,6 @@
     width: 100%;
     height: auto;
 }
-
 
 /* slider3 */
 
@@ -106,7 +104,6 @@
     width: 100%;
     height: auto;
 }
-
 
 /* slider4 */
 
@@ -170,7 +167,6 @@
     height: auto;
 }
 
-
 /* slider5 */
 
 .sym {
@@ -182,6 +178,30 @@
     overflow: hidden;
 }
 
+.symel1 {
+    position: absolute;
+    left: 5%;
+    top: 37.5%;
+    width: 92%;
+    height: 46%;
+}
+
+.symel1 img {
+    width: 92%;
+    height: auto;
+}
+.symel2 {
+    position: absolute;
+    left: 26.5%;
+    top: 57.5%;
+    width: 47%;
+    height: 16%;
+}
+
+.symel2 img {
+    width: 92%;
+    height: auto;
+}
 
 /* poppuo */
 
@@ -195,7 +215,6 @@
     height: 10%;
     cursor: pointer;
 }
-
 
 /* popup slider3 */
 
@@ -221,7 +240,6 @@
     cursor: pointer;
 }
 
-
 /* poppuo */
 
 .lupaR0 {
@@ -234,7 +252,6 @@
     height: 10%;
     cursor: pointer;
 }
-
 
 /* popup slider3 */
 
@@ -260,7 +277,6 @@
     cursor: pointer;
 }
 
-
 /* poppuo */
 
 .lupaR10 {
@@ -273,7 +289,6 @@
     height: 10%;
     cursor: pointer;
 }
-
 
 /* popup slider3 */
 
@@ -298,7 +313,6 @@
     right: 5%;
     cursor: pointer;
 }
-
 
 /* slider6 */
 
@@ -379,7 +393,6 @@
     height: auto;
 }
 
-
 /* slider7 */
 
 .sym3 {
@@ -404,6 +417,27 @@
 }
 
 .del img {
+    width: 100%;
+    height: auto;
+}
+.forte2{
+    position: absolute;
+    width: 28%;
+    left: 8%;
+    top: 22%;
+}
+.forte2 img{
+    width: 100%;
+    height: auto;
+}
+.forte3{
+    position: absolute;
+    width: 58%;
+    left: 38.2%;
+    top: 53%;
+
+}
+.forte3 img{
     width: 100%;
     height: auto;
 }

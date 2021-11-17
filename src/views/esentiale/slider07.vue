@@ -3,7 +3,12 @@
     <div class="del animate__animated animate__fadeInDownBig">
       <img src="/images/forte.png" alt="" />
     </div>
-
+    <div class="forte2 animate__animated animate__fadeInLeft">
+      <img src="/images/forte2.png" alt="" />
+    </div>
+    <div class="forte3 animate__animated animate__backInDown">
+      <img src="/images/forte3.png" alt="" />
+    </div>
     <!-- navegacion -->
     <!-- <router-link class="boton1" to="/esentiale/07"></router-link> -->
     <router-link class="after" to="/esentiale/06"></router-link>

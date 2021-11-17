@@ -6,10 +6,10 @@
     <div class="delta2 animate__animated animate__fadeInTopLeft">
       <img src="/images/delta2.png" alt="" />
     </div>
-    <div class="delta3 animate__animated animate__fadeInTopRight">
+    <div class="delta3 animate__animated animate__slideInLeft">
       <img src="/images/delta3.png" alt="" />
     </div>
-    <div class="delta4 animate__animated animate__flipInY">
+    <div class="delta4 animate__animated animate__slideInLeft">
       <img src="/images/delta4.png" alt="" />
     </div>
 
