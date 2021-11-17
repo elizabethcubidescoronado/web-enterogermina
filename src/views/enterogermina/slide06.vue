@@ -1,11 +1,12 @@
 <template>
   <div class="fondo7">
-    <div class="port animate__animated animate__pulse">
+    <div class="port animate__animated animate__backInDown">
       <img src="/images/port1.png" alt="" />
     </div>
     <div class="port1 animate__animated animate__fadeInLeft">
       <img src="/images/port.png" alt="" />
     </div>
+
     <div class="espora_azul-555 animate__animated animate__fadeInDown">
       <img src="/images/bola-azul.png" alt="" height="185%" width="185%" />
     </div>

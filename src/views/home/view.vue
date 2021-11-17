@@ -1,9 +1,9 @@
 <template>
   <div class="fondo">
-    <div class="foto1 animate__animated animate__tada">
+    <div class="foto1 animate__animated animate__fadeInLeft">
       <img src="/images/entero1.png" alt="" />
     </div>
-    <div class="foto2 animate__animated animate__pulse slow">
+    <div class="foto2 animate__animated animate__fadeInRight">
       <img src="/images/entero.png" alt="" />
     </div>
     <div class="espora_azul animate__animated animate__fadeInDown">

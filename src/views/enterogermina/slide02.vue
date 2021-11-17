@@ -3,7 +3,7 @@
     <div class="po1 animate__animated animate__fadeInDown">
       <img src="/images/po1.png" alt="" />
     </div>
-    <div class="po2 animate__animated animate__rotateInDownLeft">
+    <div class="po2 animate__animated animate__fadeInUp">
       <img src="/images/po2.png" alt="" />
     </div>
     <div class="espora_azul-1-3 animate__animated animate__fadeInDown">

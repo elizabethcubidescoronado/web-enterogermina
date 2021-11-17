@@ -7,6 +7,7 @@
     overflow: hidden;
     position: absolute;
 }
+
 .heder {
     position: absolute;
     height: 14%;
@@ -53,7 +54,7 @@
     height: auto;
 }
 
-.titulo101{
+.titulo101 {
     position: absolute;
     width: 60.1%;
     top: 36.9%;
@@ -61,44 +62,42 @@
     height: 15.1%;
 }
 
-.espora_azul{
-
+.espora_azul {
     position: absolute;
     left: 1.5%;
     top: 28%;
 }
 
-.espora_azul1{
-
+.espora_azul1 {
     position: absolute;
     left: 86.5%;
     top: -6%;
 }
 
-.espora_azul2{
+.espora_azul2 {
     position: absolute;
     left: 87.5%;
     top: 23%;
 }
 
-.espora_azul311{
-
+.espora_azul311 {
     position: absolute;
     left: 41.2%;
     top: 11.6%;
 }
 
-.espora_azul4{
+.espora_azul4 {
     position: absolute;
     left: 3.5%;
     top: 61.5%;
 }
 
-.espora_naranja150{
+.espora_naranja150 {
     position: absolute;
     left: 91%;
     top: 51%;
 }
+
 /* Navegacion */
 
 .boton {
@@ -178,10 +177,9 @@
 
 .mage1 {
     position: absolute;
-    width: 80.1%;
-    top: 20.8%;
+    width: 77.1%;
+    top: 21.8%;
     left: 4.8%;
-    height: 22.1%;
 }
 
 .mage1 img {
@@ -192,13 +190,14 @@
 .mage2 {
     position: absolute;
     width: 100%;
-    top: 50.1%;
+    top: 41.1%;
     left: 0%;
-    height: auto;
+    z-index: 1;
 }
 
 .mage2 img {
     width: 100%;
+    height: auto;
 }
 
 .mage3 {
@@ -210,40 +209,36 @@
 }
 
 .espora_azul-1-1 {
-
     position: absolute;
     left: 86.5%;
     top: -5%;
 }
 
 .espora_azul-1-2 {
-
     position: absolute;
     left: 93.5%;
     top: 77%;
 }
 
 .espora_azul-2-1 {
-
     position: absolute;
     left: 87.5%;
     top: 24%;
 }
-.espora_azul-1-2-1{
 
+.espora_azul-1-2-1 {
     position: absolute;
     left: 86.5%;
     top: -5%;
 }
 
 .espora_azul-3-1-2 {
-
     position: absolute;
     left: 41%;
     top: 12.5%;
 }
-.espora_naranja-1 {
 
+.espora_naranja-1 {
     position: absolute;
     left: -2%;
     top: 76.5%;
@@ -289,9 +284,8 @@
 .po1 {
     position: absolute;
     width: 100%;
-    top: 37.4%;
+    top: 36%;
     left: 0%;
-    height: auto;
     z-index: 1;
 }
 
@@ -302,8 +296,8 @@
 
 .po2 {
     position: absolute;
-    width: 60.1%;
-    top: 44.6%;
+    width: 60%;
+    top: 40.6%;
     left: 39.1%;
     height: auto;
     z-index: 1;
@@ -313,46 +307,49 @@
     width: 90.9%;
     height: 292.1%;
 }
-.espora_azul-1-3{
 
+.espora_azul-1-3 {
     position: absolute;
     left: 49.7%;
     top: -4%;
-
 }
-.espora_verde-3-1{
 
+.espora_verde-3-1 {
     position: absolute;
     left: 8.7%;
     top: 25%;
 }
-.espora_verde-3-2{
 
+.espora_verde-3-2 {
     position: absolute;
     left: 56%;
     top: 12.6%;
 }
-.espora_azul-3{
 
+.espora_azul-3 {
     position: absolute;
     left: 90.2%;
     top: 28.6%;
 }
-.espora_azul-3-1{
+
+.espora_azul-3-1 {
     position: absolute;
     left: -1.5%;
     top: 77%;
 }
-.espora_naranja-2{
+
+.espora_naranja-2 {
     position: absolute;
     left: 94%;
     top: 77%;
 }
-.espora_naranja155{
+
+.espora_naranja155 {
     position: absolute;
     left: -1.5%;
     top: 9%;
 }
+
 /* Navegacion */
 
 .nest {
@@ -381,22 +378,26 @@
     height: 100%;
     overflow: hidden;
 }
-.espora_verde-12{
+
+.espora_verde-12 {
     position: absolute;
     left: 96%;
     top: 63%;
 }
-.espora_azul-12{
+
+.espora_azul-12 {
     position: absolute;
     left: 94%;
     top: 2%;
 }
-.espora_azul-123{
+
+.espora_azul-123 {
     position: absolute;
     left: 1%;
     top: 56%;
 }
-.espora_naranja-245{
+
+.espora_naranja-245 {
     position: absolute;
     left: 94%;
     top: 1%
@@ -422,8 +423,8 @@
 
 .lat {
     position: absolute;
-    width: 60.1%;
-    top: 21.9%;
+    width: 75.1%;
+    top: 21.5%;
     left: 6.7%;
     height: 15.1%;
 }
@@ -435,10 +436,10 @@
 
 .lat1 {
     position: absolute;
-    width: 88%;
-    top: 31.8%;
-    left: 6.6%;
-    height: auto;
+    width: 28.4%;
+    top: 32%;
+    left: 7%;
+    height: 24%;
 }
 
 .lat1 img {
@@ -446,12 +447,25 @@
     height: auto;
 }
 
+.lat2 {
+    position: absolute;
+    width: 28.6%;
+    top: 32%;
+    left: 35.7%;
+    height: 24%;
+}
+
+.lat2 img {
+    width: 100%;
+    height: auto;
+}
+
 .lat3 {
     position: absolute;
-    width: 88%;
+    width: 28.4%;
     top: 56.3%;
-    left: 6.6%;
-    height: auto;
+    left: 7%;
+    height: 24%;
     z-index: 1;
 }
 
@@ -460,17 +474,59 @@
     height: auto;
 }
 
+.lat4 {
+    position: absolute;
+    width: 28.4%;
+    top: 32%;
+    left: 64.7%;
+    height: 24%
+}
+
+.lat4 img {
+    width: 100%;
+    height: auto;
+}
+
+.lat5 {
+    position: absolute;
+    width: 28.4%;
+    top: 56.3%;
+    left: 35.8%;
+    height: 24%;
+    z-index: 1;
+}
+
+.lat5 img {
+    width: 100%;
+    height: auto;
+}
+
+.lat6 {
+    position: absolute;
+    width: 28.4%;
+    top: 56.3%;
+    left: 64.7%;
+    height: 24%;
+    z-index: 1;
+}
+
+.lat6 img {
+    width: 100%;
+    height: auto;
+}
+
 .lupaR {
     position: absolute;
     z-index: 1;
-    top: 78.2%;
-    left: 61.4%;
+    top: 76.2%;
+    left: 60.4%;
     height: 15.1%;
 }
 
 .lupaR img {
     width: 92.8%;
     height: 41.9%;
+    cursor: pointer;
 }
 
 /* popup slider3 */
@@ -546,21 +602,25 @@
     width: 100%;
     height: auto;
 }
-.espora_azul-234{
+
+.espora_azul-234 {
     position: absolute;
     left: 96%;
     top: 73.5%;
 }
-.espora_azul-235{
+
+.espora_azul-235 {
     position: absolute;
     left: -4%;
     top: 21%;
 }
-.espora_verde-235{
+
+.espora_verde-235 {
     position: absolute;
     left: 0.5%;
     top: 63%;
 }
+
 /* poppuo */
 
 .lupaR1 {
@@ -648,6 +708,18 @@
     height: 226.9%;
 }
 
+.mark3 {
+    position: absolute;
+    left: 65%;
+    top: 47%;
+    height: 39%;
+}
+
+.mark3 img {
+    width: 90%;
+    height: auto;
+}
+
 .mark4 {
     position: absolute;
     width: 60.1%;
@@ -660,22 +732,37 @@
     width: 44.7%;
     height: 226.9%;
 }
-.espora_azul-432{
+.mark6 {
+    position: absolute;
+    left: 11.8%;
+    top: 38%;
+    height: 31%;
+}
+
+.mark6 img {
+    width: 94%;
+    height: auto;
+}
+
+.espora_azul-432 {
     position: absolute;
     left: 96%;
     top: 73.5%;
 }
-.espora_azul-532{
+
+.espora_azul-532 {
     position: absolute;
     left: -4%;
     top: 21%;
 }
-.espora_verde-2357{
+
+.espora_verde-2357 {
     position: absolute;
     left: 0.5%;
     top: 63%;
 }
-.espora_naranja-245{
+
+.espora_naranja-245 {
     position: absolute;
     left: 94%;
     top: 1%
@@ -791,17 +878,21 @@
     width: 100%;
     height: auto;
 }
-.espora_azul-555{
+
+
+.espora_azul-555 {
     position: absolute;
     left: 96%;
     top: 70.5%;
 }
-.espora_azul-556{
+
+.espora_azul-556 {
     position: absolute;
     left: -4%;
     top: 14%;
 }
-.espora_verde-557{
+
+.espora_verde-557 {
     position: absolute;
     left: 97%;
     top: 26.5%;
@@ -943,17 +1034,20 @@
     width: 65.6%;
     height: 459.9%;
 }
-.espora_azul-777{
+
+.espora_azul-777 {
     position: absolute;
     left: 96%;
     top: 13.5%;
 }
-.espora_azul-778{
+
+.espora_azul-778 {
     position: absolute;
     left: -4%;
     top: 70%;
 }
-.espora_azul-779{
+
+.espora_azul-779 {
     position: absolute;
     left: 50.5%;
     top: -5%;

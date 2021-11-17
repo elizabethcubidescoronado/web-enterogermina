@@ -1,9 +1,9 @@
 <template>
   <div class="fondo5">
-    <div class="lead animate__animated animate__bounce">
+    <div class="lead animate__animated animate__fadeInRight">
       <img src="/images/lead.png" alt="" />
     </div>
-    <div class="lead1 animate__animated animate__rotateIn">
+    <div class="lead1 animate__animated animate__fadeInLeft">
       <img src="/images/lead1.png" alt="" />
     </div>
     <div class="lead2 animate__animated animate__zoomIn">

@@ -1,13 +1,19 @@
 <template>
   <div class="fondo6">
-    <div class="mark animate__animated animate__zoomInDown">
+    <div class="mark animate__animated animate__fadeInDown">
       <img src="/images/mark.png" alt="" />
     </div>
-    <div class="mark1 animate__animated animate__rotateInDownLeft">
+    <div class="mark1 animate__animated animate__fadeInUp">
       <img src="/images/mark1.png" alt="" />
     </div>
-    <div class="mark2 animate__animated animate__slideInUp">
+    <div class="mark2 animate__animated animate__fadeInDown">
       <img src="/images/mark2.png" alt="" />
+    </div>
+    <div class="mark3 animate__animated animate__fadeInUp">
+      <img src="/images/mark3.png" alt="" />
+    </div>
+    <div class="mark6 animate__animated animate__backInLeft">
+      <img src="/images/mark6.png" alt="" />
     </div>
     <div class="espora_azul-432 animate__animated animate__fadeInDown">
       <img src="/images/bola-azul.png" alt="" height="185%" width="185%" />

@@ -3,16 +3,28 @@
     <div class="heder animate__animated animate__rotateInDownRight">
       <img src="/images/header.png" alt="" />
     </div>
-    <div class="lat animate__animated animate__rotateInDownRight">
+    <div class="lat animate__animated animate__backInDown">
       <img src="/images/lat.png" alt="" />
     </div>
-    <div class="lat1 animate__animated animate__fadeInDown">
+    <div class="lat1 animate__animated animate__backInLeft">
       <img src="/images/lat1.png" alt="" />
     </div>
-    <div class="lat3 animate__animated animate__pulse">
+    <div class="lat2 animate__animated animate__backInLeft">
+      <img src="/images/lat2.png" alt="" />
+    </div>
+    <div class="lat3 animate__animated animate__backInRight">
       <img src="/images/lat3.png" alt="" />
     </div>
-    <div class="lupaR" @click.prevent="openModal">
+    <div class="lat4 animate__animated animate__backInLeft">
+      <img src="/images/lat4.png" alt="" />
+    </div>
+    <div class="lat5 animate__animated animate__backInRight">
+      <img src="/images/lat5.png" alt="" />
+    </div>
+    <div class="lat6 animate__animated animate__backInRight">
+      <img src="/images/lat6.png" alt="" />
+    </div>
+    <div class="lupaR animate__animated animate__backInRight"  @click.prevent="openModal " >
       <img src="/images/lupaR.png" alt="" />
     </div>
     <div class="espora_verde-12 animate__animated animate__fadeInDown">
