@@ -18,7 +18,9 @@
     <div class="espora_verde-2357 animate__animated animate__fadeInDown">
       <img src="/images/bola-verde.png" alt="" height="4%" width="4%" />
     </div>
-
+    <div class="espora_naranja-245 animate__animated animate__fadeInDown">
+      <img src="/images/bola-naranja.png" alt="" height="127%" width="127%" />
+    </div>
     <div class="lupaR2" @click.prevent="openModal"></div>
     <div class="lupaR3" @click.prevent="openModal1"></div>
 
