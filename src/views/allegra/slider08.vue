@@ -16,7 +16,7 @@
     <div class="part7 animate__animated animate__backInDown">
       <img src="/images/part7.png" alt="" />
     </div>
-    <div class="part18 animate__animated animate__backInDown">
+    <div class="part18">
       <img src="/images/part18.png" alt="" />
     </div>
     <!-- modal -->
