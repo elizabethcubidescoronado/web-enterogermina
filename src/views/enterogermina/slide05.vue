@@ -39,9 +39,9 @@
     <!-- pop up 2-->
     <div class="popup2" style="display: none">
       <div class="popuprt1120">
-        <img id="ope" src="/images/pop4.jpg" alt="" @click.prevent="playVideo"/>
+        <img id="ope111" src="/images/pop4.jpg" alt="" @click.prevent="playVideo"/>
         <video
-          id="video"
+          id="video1"
           src="/enterogermina.mp4"
           controls
           style="display: none"
@@ -85,8 +85,8 @@ export default {
       $(".popup2").css("display", "block");
     },
     playVideo() {
-      $("#ope").css("display", "none");
-      $("#video").css("display", "block");
+      $("#ope111").css("display", "none");
+      $("#video1").css("display", "block");
     },
   },
 };
