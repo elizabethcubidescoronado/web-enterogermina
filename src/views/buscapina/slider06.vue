@@ -14,8 +14,23 @@
 
     <!-- pop up -->
     <div class="popuprt" style="display: none">
-      <img id="ope" src="/images/pot5.jpg" alt="" />
-      <div class="cerrar601" @click.prevent="closeModal"></div>
+      <div class="popuprt120">
+        <img
+          id="ope"
+          src="/images/pot5.jpg"
+          alt=""
+          @click.prevent="playVideo"
+        />
+        <video
+          id="video"
+          src="/comercial buscapina.mp4"
+          controls
+          style="display: none"
+        ></video>
+        <div class="cerrar601" @click.prevent="closeModal">
+          <img class="botoncerrar" src="/images/botoncerrar.png" alt="" />
+        </div>
+      </div>
     </div>
 
     <!-- navegacion -->
@@ -39,9 +54,15 @@ export default {
   methods: {
     closeModal() {
       $(".popuprt").css("display", "none");
+      $("#ope").css("display", "block");
+      $("#video").css("display", "none");
     },
     openModal() {
       $(".popuprt").css("display", "block");
+    },
+    playVideo() {
+      $("#ope").css("display", "none");
+      $("#video").css("display", "block");
     },
   },
 };

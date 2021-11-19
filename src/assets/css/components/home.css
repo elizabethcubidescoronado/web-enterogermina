@@ -837,9 +837,28 @@
     height: 10%;
     position: absolute;
     z-index: 11;
-    top: 12%;
-    right: 9%;
+    top: 17%;
+    right: 6%;
     cursor: pointer;
+}
+.botoncerrar1{
+    width: 50% !important;
+    height:50% !important;
+
+
+}
+.popuprt1120{
+
+    height: 100%;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+#video1{
+    background-color:black;
+    width: 78%;
 }
 
 /* slider6 */

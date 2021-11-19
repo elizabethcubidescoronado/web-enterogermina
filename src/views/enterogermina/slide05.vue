@@ -9,7 +9,7 @@
     <div class="mark2 animate__animated animate__fadeInDown">
       <img src="/images/mark2.png" alt="" />
     </div>
-    <div class="mark3 animate__animated animate__fadeInUp">
+    <div id="ope1" class="mark3 animate__animated animate__fadeInUp">
       <img src="/images/mark3.png" alt="" />
     </div>
     <div class="mark6 animate__animated animate__backInLeft">
@@ -38,8 +38,19 @@
 
     <!-- pop up 2-->
     <div class="popup2" style="display: none">
-      <img id="ope1" src="/images/pop4.jpg" alt="" />
-      <div class="cerrar17" @click.prevent="closeModal1"></div>
+      <div class="popuprt1120">
+        <img id="ope111" src="/images/pop4.jpg" alt="" @click.prevent="playVideo"/>
+        <video
+          id="video1"
+          src="/enterogermina.mp4"
+          controls
+          style="display: none"
+        ></video>
+
+        <div class="cerrar17" @click.prevent="closeModal1">
+          <img class="botoncerrar1" src="/images/botoncerrar.png" alt="" />
+        </div>
+      </div>
     </div>
 
     <!-- Navegacion -->
@@ -62,6 +73,8 @@ export default {
   methods: {
     closeModal() {
       $(".popup1").css("display", "none");
+      $("#ope111").css("display", "block");
+      $("#video1").css("display", "none");
     },
     openModal() {
       $(".popup1").css("display", "block");
@@ -71,6 +84,10 @@ export default {
     },
     openModal1() {
       $(".popup2").css("display", "block");
+    },
+    playVideo() {
+      $("#ope111").css("display", "none");
+      $("#video1").css("display", "block");
     },
   },
 };

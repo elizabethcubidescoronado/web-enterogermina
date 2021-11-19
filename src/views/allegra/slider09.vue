@@ -29,8 +29,18 @@
 
     <!-- pop up 3-->
     <div class="popup76" style="display: none">
-      <img id="opePopup3" src="/images/popallegra3.jpg" alt="" />
-      <div class="cerrar63" @click="closeModal2"></div>
+      <div class="popuprt112">
+      <img id="opePopup3" src="/images/popallegra3.jpg" alt="" @click.prevent="playVideo"/>
+        <video
+          id="video"
+          src="/allegra.mp4"
+          controls
+          style="display: none"
+        ></video>
+        </div>
+      <div class="cerrar63" @click="closeModal2">
+        <img class="botoncerrarx" src="/images/botoncerrarx.png" alt="" />
+      </div>
       <div id="toSlide1"></div>
       <div id="toSlide2"></div>
       <div id="toSlide3"></div>
@@ -61,28 +71,28 @@
 import $ from "jquery";
 export default {
   name: "Allegra_09",
-  beforeMount(){
+  beforeMount() {
     this.initialFunction();
   },
   methods: {
-    initialFunction(){
+    initialFunction() {
       $(document).ready(() => {
-        $("#toSlide1").on('click', () => {
+        $("#toSlide1").on("click", () => {
           $("#opePopup3").attr("src", "/images/popallegra3.jpg");
         });
 
-        $("#toSlide2").on('click', () => {
+        $("#toSlide2").on("click", () => {
           $("#opePopup3").attr("src", "/images/popallegra4.jpg");
         });
 
-        $("#toSlide3").on('click', () => {
+        $("#toSlide3").on("click", () => {
           $("#opePopup3").attr("src", "/images/popallegra5.jpg");
         });
 
-        $("#toSlide3").on('click', () => {
+        $("#toSlide3").on("click", () => {
           $("#opePopup3").attr("src", "/images/popallegra5.jpg");
         });
-      })
+      });
     },
     closeModal() {
       $(".popup74").css("display", "none");
@@ -101,6 +111,10 @@ export default {
     },
     openModal2() {
       $(".popup76").css("display", "block");
+    },
+    playVideo() {
+      $("#opePopup3").css("display", "none");
+      $("#video").css("display", "block");
     },
   },
 };
