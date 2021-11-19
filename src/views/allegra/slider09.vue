@@ -30,14 +30,19 @@
     <!-- pop up 3-->
     <div class="popup76" style="display: none">
       <div class="popuprt112">
-      <img id="opePopup3" src="/images/popallegra3.jpg" alt="" @click.prevent="playVideo"/>
+        <img
+          id="opePopup3"
+          src="/images/popallegra3.jpg"
+          alt=""
+          @click.prevent="playVideo"
+        />
         <video
           id="video2"
           src="/Allegra.mp4"
           controls
           style="display: none"
         ></video>
-        </div>
+      </div>
       <div class="cerrar63" @click="closeModal2">
         <img class="botoncerrarx" src="/images/botoncerrarx.png" alt="" />
       </div>
@@ -107,7 +112,15 @@ export default {
       $(".popup75").css("display", "block");
     },
     closeModal2() {
+      if ($("#video2").css("display") === "block") {
+        $("#opePopup3").css("display", "block");
+        $("#video2").css("display", "none");
+        $("#video2").trigger("pause");
+      }
+      else{
       $(".popup76").css("display", "none");
+      }
+
     },
     openModal2() {
       $(".popup76").css("display", "block");

@@ -39,7 +39,12 @@
     <!-- pop up 2-->
     <div class="popup2" style="display: none">
       <div class="popuprt1120">
-        <img id="ope111" src="/images/pop4.jpg" alt="" @click.prevent="playVideo"/>
+        <img
+          id="ope111"
+          src="/images/pop4.jpg"
+          alt=""
+          @click.prevent="playVideo"
+        />
         <video
           id="video1"
           src="/enterogermina.mp4"
@@ -71,15 +76,19 @@ export default {
   name: "Enterogermina_05",
   methods: {
     closeModal() {
+      window.location.reload()
       $(".popup1").css("display", "none");
-      $("#ope111").css("display", "block");
-      $("#video1").css("display", "none");
+
+
     },
     openModal() {
       $(".popup1").css("display", "block");
     },
     closeModal1() {
       $(".popup2").css("display", "none");
+      $("#ope111").css("display", "block");
+      $("#video1").css("display", "none");
+      $("#video1").trigger("pause");
     },
     openModal1() {
       $(".popup2").css("display", "block");

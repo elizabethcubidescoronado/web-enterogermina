@@ -56,6 +56,7 @@ export default {
       $(".popuprt").css("display", "none");
       $("#ope").css("display", "block");
       $("#video").css("display", "none");
+      $("#video").trigger("pause");
     },
     openModal() {
       $(".popuprt").css("display", "block");
