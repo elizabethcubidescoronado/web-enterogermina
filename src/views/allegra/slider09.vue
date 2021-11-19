@@ -33,7 +33,7 @@
       <img id="opePopup3" src="/images/popallegra3.jpg" alt="" @click.prevent="playVideo"/>
         <video
           id="video2"
-          src="/allegra.mp4"
+          src="/Allegra.mp4"
           controls
           style="display: none"
         ></video>
