@@ -32,7 +32,7 @@
       <div class="popuprt112">
       <img id="opePopup3" src="/images/popallegra3.jpg" alt="" @click.prevent="playVideo"/>
         <video
-          id="video"
+          id="video2"
           src="/allegra.mp4"
           controls
           style="display: none"
@@ -114,7 +114,7 @@ export default {
     },
     playVideo() {
       $("#opePopup3").css("display", "none");
-      $("#video").css("display", "block");
+      $("#video2").css("display", "block");
     },
   },
 };
