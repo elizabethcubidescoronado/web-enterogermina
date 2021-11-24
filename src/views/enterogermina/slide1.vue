@@ -33,7 +33,7 @@
     </div>
 
     <!-- navegacion -->
-    <router-link class="boton" to="/enterogermina/01"></router-link>
+    <router-link class="boton" to="/enterogermina/1"></router-link>
 
     <router-link class="home" to="/"></router-link>
     <router-link class="enterogermina" to="/enterogermina/1"></router-link>

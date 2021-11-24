@@ -17,7 +17,7 @@
     <router-link class="after" to="/dulcolax/06"></router-link>
 
     <router-link class="home" to="/"></router-link>
-    <router-link class="enterogermina" to="/enterogermina/01"></router-link>
+    <router-link class="enterogermina" to="/enterogermina/1"></router-link>
     <router-link class="dulcolax" to="/dulcolax/01"></router-link>
     <router-link class="esentiale" to="/esentiale/01"></router-link>
     <router-link class="buscapina" to="/buscapina/01"></router-link>
