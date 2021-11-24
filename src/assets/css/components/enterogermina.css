@@ -1,0 +1,1075 @@
+.fondo {
+    background-image: url("/images/fondo1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: absolute;
+}
+
+.heder {
+    position: absolute;
+    height: 14%;
+    left: -0.2%;
+    top: -1%;
+    width: 94%;
+    z-index: 1;
+}
+
+.heder img {
+    width: 108%;
+    height: auto;
+}
+
+.foto1 {
+    position: absolute;
+    height: auto;
+    left: 5%;
+    top: 63%;
+    width: 24.6%;
+    z-index: 1;
+}
+
+.foto1 img {
+    width: 100%;
+    height: auto;
+}
+
+.foto2 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    height: 28%;
+    left: 73.5%;
+    top: 67%;
+    z-index: 10;
+    cursor: pointer;
+    /* -webkit-animation: infinite 1s;
+  animation: infinite 1s; */
+}
+
+.foto2 img {
+    width: 83.5%;
+    height: auto;
+}
+
+.titulo101 {
+    position: absolute;
+    width: 60.1%;
+    top: 36.9%;
+    left: 20%;
+    height: 15.1%;
+}
+
+.espora_azul {
+    position: absolute;
+    left: 1.5%;
+    top: 28%;
+}
+
+.espora_azul1 {
+    position: absolute;
+    left: 86.5%;
+    top: -6%;
+}
+
+.espora_azul2 {
+    position: absolute;
+    left: 87.5%;
+    top: 23%;
+}
+
+.espora_azul311 {
+    position: absolute;
+    left: 41.2%;
+    top: 11.6%;
+}
+
+.espora_azul4 {
+    position: absolute;
+    left: 3.5%;
+    top: 61.5%;
+}
+
+.espora_naranja150 {
+    position: absolute;
+    left: 91%;
+    top: 51%;
+}
+
+/* Navegacion */
+
+.boton {
+    width: 9.4%;
+    height: 10.6%;
+    position: absolute;
+    bottom: 31.8%;
+    left: 45.5%;
+}
+
+.enterogermina {
+    width: 15.4%;
+    height: 6.6%;
+    position: absolute;
+    bottom: 1.8%;
+    left: 5.5%;
+}
+
+.home {
+    width: 4.9%;
+    height: 6.6%;
+    position: absolute;
+    bottom: 1.8%;
+    left: 0.1%;
+}
+
+.dulcolax {
+    width: 15.4%;
+    height: 6.6%;
+    position: absolute;
+    bottom: 1.8%;
+    left: 21.3%;
+}
+
+.esentiale {
+    width: 15.3%;
+    height: 6.6%;
+    position: absolute;
+    bottom: 1.8%;
+    left: 37.1%;
+}
+
+.buscapina {
+    width: 15.1%;
+    height: 6.6%;
+    position: absolute;
+    bottom: 1.8%;
+    left: 52.9%;
+}
+
+.allegra {
+    width: 15.2%;
+    height: 6.6%;
+    position: absolute;
+    bottom: 1.8%;
+    left: 68.6%;
+}
+
+.pharmathon {
+    width: 15.2%;
+    height: 6.6%;
+    position: absolute;
+    bottom: 1.8%;
+    left: 84.6%;
+}
+
+/* slider 2 */
+
+.fondo2 {
+    background-image: url("/images/fondo2.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.mage1 {
+    position: absolute;
+    width: 77.1%;
+    top: 21.8%;
+    left: 4.8%;
+}
+
+.mage1 img {
+    width: 100%;
+    height: auto;
+}
+
+.mage2 {
+    position: absolute;
+    width: 100%;
+    top: 41.1%;
+    left: 0%;
+    z-index: 1;
+}
+
+.mage2 img {
+    width: 100%;
+    height: auto;
+}
+
+.mage3 {
+    position: absolute;
+    width: 60.1%;
+    top: 50.2%;
+    left: 4.9%;
+    height: 15.1%;
+}
+
+.espora_azul-1-1 {
+    position: absolute;
+    left: 86.5%;
+    top: -5%;
+}
+
+.espora_azul-1-2 {
+    position: absolute;
+    left: 93.5%;
+    top: 77%;
+}
+
+.espora_azul-2-1 {
+    position: absolute;
+    left: 87.5%;
+    top: 24%;
+}
+
+.espora_azul-1-2-1 {
+    position: absolute;
+    left: 86.5%;
+    top: -5%;
+}
+
+.espora_azul-3-1-2 {
+    position: absolute;
+    left: 41%;
+    top: 12.5%;
+}
+
+.espora_naranja-1 {
+    position: absolute;
+    left: -2%;
+    top: 76.5%;
+}
+
+/* navegacion */
+
+.boton1 {
+    width: 9.4%;
+    height: 10.6%;
+    position: absolute;
+    bottom: 77.8%;
+    left: 88.5%;
+}
+
+.seguir {
+    width: 2.3%;
+    height: 4%;
+    position: absolute;
+    bottom: 12.4%;
+    left: 47.5%;
+}
+
+.seguir1 {
+    width: 2.3%;
+    height: 4%;
+    position: absolute;
+    bottom: 12.4%;
+    left: 50.5%;
+}
+
+/* slider3 */
+
+.fondo3 {
+    background-image: url("/images/fondo3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.po1 {
+    position: absolute;
+    width: 100%;
+    top: 36%;
+    left: 0%;
+    z-index: 1;
+}
+
+.po1 img {
+    width: 100%;
+    height: auto;
+}
+
+.po2 {
+    position: absolute;
+    width: 60%;
+    top: 40.6%;
+    left: 39.1%;
+    height: auto;
+    z-index: 1;
+}
+
+.po2 img {
+    width: 90.9%;
+    height: 292.1%;
+}
+
+.espora_azul-1-3 {
+    position: absolute;
+    left: 49.7%;
+    top: -4%;
+}
+
+.espora_verde-3-1 {
+    position: absolute;
+    left: 8.7%;
+    top: 25%;
+}
+
+.espora_verde-3-2 {
+    position: absolute;
+    left: 56%;
+    top: 12.6%;
+}
+
+.espora_azul-3 {
+    position: absolute;
+    left: 90.2%;
+    top: 28.6%;
+}
+
+.espora_azul-3-1 {
+    position: absolute;
+    left: -1.5%;
+    top: 77%;
+}
+
+.espora_naranja-2 {
+    position: absolute;
+    left: 94%;
+    top: 77%;
+}
+
+.espora_naranja155 {
+    position: absolute;
+    left: -1.5%;
+    top: 9%;
+}
+
+/* Navegacion */
+
+.nest {
+    width: 9.4%;
+    height: 10.6%;
+    position: absolute;
+    bottom: 77.8%;
+    left: 88.5%;
+}
+
+.after {
+    width: 9.4%;
+    height: 10.6%;
+    position: absolute;
+    bottom: 77.8%;
+    left: 2.5%;
+}
+
+/* slider4 */
+
+.fondo4 {
+    background-image: url("/images/fondo4.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.espora_verde-12 {
+    position: absolute;
+    left: 96%;
+    top: 63%;
+}
+
+.espora_azul-12 {
+    position: absolute;
+    left: 94%;
+    top: 2%;
+}
+
+.espora_azul-123 {
+    position: absolute;
+    left: 1%;
+    top: 56%;
+}
+
+.espora_naranja-245 {
+    position: absolute;
+    left: 94%;
+    top: 1%
+}
+
+/* Navegacion */
+
+.nest1 {
+    width: 9.4%;
+    height: 10.6%;
+    position: absolute;
+    bottom: 77.8%;
+    left: 88.5%;
+}
+
+.after1 {
+    width: 9.4%;
+    height: 10.6%;
+    position: absolute;
+    bottom: 77.8%;
+    left: 2.5%;
+}
+
+.lat {
+    position: absolute;
+    width: 75.1%;
+    top: 21.5%;
+    left: 6.7%;
+    height: 15.1%;
+}
+
+.lat img {
+    width: 100%;
+    height: auto;
+}
+
+.lat1 {
+    position: absolute;
+    width: 28.4%;
+    top: 32%;
+    left: 7%;
+    height: 24%;
+}
+
+.lat1 img {
+    width: 100%;
+    height: auto;
+}
+
+.lat2 {
+    position: absolute;
+    width: 28.6%;
+    top: 32%;
+    left: 35.7%;
+    height: 24%;
+}
+
+.lat2 img {
+    width: 100%;
+    height: auto;
+}
+
+.lat3 {
+    position: absolute;
+    width: 28.4%;
+    top: 56.3%;
+    left: 7%;
+    height: 24%;
+    z-index: 1;
+}
+
+.lat3 img {
+    width: 100%;
+    height: auto;
+}
+
+.lat4 {
+    position: absolute;
+    width: 28.4%;
+    top: 32%;
+    left: 64.7%;
+    height: 24%
+}
+
+.lat4 img {
+    width: 100%;
+    height: auto;
+}
+
+.lat5 {
+    position: absolute;
+    width: 28.4%;
+    top: 56.3%;
+    left: 35.8%;
+    height: 24%;
+    z-index: 1;
+}
+
+.lat5 img {
+    width: 100%;
+    height: auto;
+}
+
+.lat6 {
+    position: absolute;
+    width: 28.4%;
+    top: 56.3%;
+    left: 64.7%;
+    height: 24%;
+    z-index: 1;
+}
+
+.lat6 img {
+    width: 100%;
+    height: auto;
+}
+
+.lupaR {
+    position: absolute;
+    z-index: 1;
+    top: 76.2%;
+    left: 60.4%;
+    height: 15.1%;
+}
+
+.lupaR img {
+    width: 92.8%;
+    height: 41.9%;
+    cursor: pointer;
+}
+
+/* popup slider3 */
+
+.popup {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar12 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 10%;
+    right: 12%;
+    cursor: pointer;
+}
+
+/* slider 4 */
+
+.fondo5 {
+    background-image: url("/images/fondo5.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.lead {
+    position: absolute;
+    width: 80.1%;
+    top: 20.9%;
+    left: 9.1%;
+    height: 15.1%;
+}
+
+.lead img {
+    width: 100%;
+    height: auto;
+}
+
+.lead1 {
+    position: absolute;
+    width: 60.1%;
+    top: 34.9%;
+    left: 23.2%;
+    height: auto;
+}
+
+.lead1 img {
+    width: 88.5%;
+    height: 154.3%;
+}
+
+.lead2 {
+    position: absolute;
+    width: 91%;
+    top: 60.9%;
+    left: 5.2%;
+    height: auto;
+}
+
+.lead2 img {
+    width: 100%;
+    height: auto;
+}
+
+.espora_azul-234 {
+    position: absolute;
+    left: 96%;
+    top: 73.5%;
+}
+
+.espora_azul-235 {
+    position: absolute;
+    left: -4%;
+    top: 21%;
+}
+
+.espora_verde-235 {
+    position: absolute;
+    left: 0.5%;
+    top: 63%;
+}
+
+/* poppuo */
+
+.lupaR1 {
+    position: absolute;
+    z-index: 1;
+    top: 42.2%;
+    left: 40.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+/* popup slider3 */
+
+.popup {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar14 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 12%;
+    right: 9%;
+    cursor: pointer;
+}
+
+/* slider5 */
+
+.fondo6 {
+    background-image: url("/images/gondo.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.mark {
+    position: absolute;
+    width: 60.1%;
+    top: 20.9%;
+    left: 14.1%;
+    height: auto;
+}
+
+.mark img {
+    width: 128%;
+    height: 79.3%;
+}
+
+.mark1 {
+    position: absolute;
+    width: 60.1%;
+    top: 46.4%;
+    left: 4.5%;
+    height: auto;
+}
+
+.mark1 img {
+    width: 51.2%;
+    height: 116.9%;
+}
+
+.mark2 {
+    position: absolute;
+    width: 60.1%;
+    top: 46.4%;
+    left: 36.5%;
+    height: auto;
+}
+
+.mark2 img {
+    width: 44.7%;
+    height: 226.9%;
+}
+
+.mark3 {
+    position: absolute;
+    left: 65%;
+    top: 47%;
+    height: 39%;
+    width: 34%;
+}
+
+.mark3 img {
+    width: 90%;
+    height: auto;
+}
+
+.mark4 {
+    position: absolute;
+    width: 60.1%;
+    top: 46.4%;
+    left: 36.5%;
+    height: 15.1%;
+}
+
+.mark4 img {
+    width: 44.7%;
+    height: 226.9%;
+}
+.mark6 {
+    position: absolute;
+    left: 11.8%;
+    top: 38%;
+    height: 31%;
+    width: 89.6%;
+}
+
+.mark6 img {
+    width: 94%;
+    height: auto;
+}
+
+.espora_azul-432 {
+    position: absolute;
+    left: 96%;
+    top: 73.5%;
+}
+
+.espora_azul-532 {
+    position: absolute;
+    left: -4%;
+    top: 21%;
+}
+
+.espora_verde-2357 {
+    position: absolute;
+    left: 0.5%;
+    top: 63%;
+}
+
+.espora_naranja-245 {
+    position: absolute;
+    left: 94%;
+    top: 1%
+}
+
+/* poppuo */
+
+.lupaR2 {
+    position: absolute;
+    z-index: 1;
+    top: 36.2%;
+    left: 51.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+/* popup slider3 */
+
+.popup1 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup1 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar6 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 12%;
+    right: 21%;
+    cursor: pointer;
+}
+
+/* poppuo */
+
+.lupaR3 {
+    position: absolute;
+    z-index: 1;
+    top: 36.2%;
+    left: 88.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+/* popup slider3 */
+
+.popup2 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar17 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 17%;
+    right: 6%;
+    cursor: pointer;
+}
+.botoncerrar1{
+    width: 50% !important;
+    height:50% !important;
+
+
+}
+.popuprt1120{
+
+    height: 100%;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+#video1{
+    background-color:black;
+    width: 78%;
+}
+
+/* slider6 */
+
+.fondo7 {
+    background-image: url("/images/fondo7.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.port {
+    position: absolute;
+    width: 54.1%;
+    top: 28.9%;
+    left: 4.9%;
+    height: auto;
+}
+
+.port img {
+    width: 92%;
+    height: 390.3%;
+}
+
+.port1 {
+    position: absolute;
+    width: 76%;
+    top: 14.4%;
+    left: 10.5%;
+    height: auto;
+}
+
+.port1 img {
+    width: 100%;
+    height: auto;
+}
+
+
+.espora_azul-555 {
+    position: absolute;
+    left: 96%;
+    top: 70.5%;
+}
+
+.espora_azul-556 {
+    position: absolute;
+    left: -4%;
+    top: 14%;
+}
+
+.espora_verde-557 {
+    position: absolute;
+    left: 97%;
+    top: 26.5%;
+}
+
+/* poppuo */
+
+.lupaR4 {
+    position: absolute;
+    z-index: 1;
+    top: 48.2%;
+    left: 85.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+/* popup slider3 */
+
+.popup2 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar21 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 12%;
+    right: 11%;
+    cursor: pointer;
+}
+
+/* poppuo */
+
+.lupaR5 {
+    position: absolute;
+    z-index: 1;
+    top: 64.2%;
+    left: 84.4%;
+    height: 15.1%;
+    width: 10%;
+    height: 10%;
+    cursor: pointer;
+}
+
+/* popup slider3 */
+
+.popup3 {
+    z-index: 10;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.popup3 img {
+    width: 100%;
+    height: 100%;
+}
+
+.cerrar22 {
+    width: 6%;
+    height: 10%;
+    position: absolute;
+    z-index: 11;
+    top: 18%;
+    right: 5.2%;
+    cursor: pointer;
+}
+
+/* slider7 */
+
+.fondo8 {
+    background-image: url("/images/fondo8.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.purpo {
+    position: absolute;
+    width: 60.1%;
+    top: 15.9%;
+    left: 12.9%;
+    height: 15.1%;
+}
+
+.purpo img {
+    width: 47%;
+    height: 60%;
+}
+
+.purpo1 {
+    position: absolute;
+    width: 60.1%;
+    top: 27.9%;
+    left: 6.4%;
+    height: 15.1%;
+}
+
+.purpo1 img {
+    width: 68.6%;
+    height: 75%;
+}
+
+.purpo2 {
+    position: absolute;
+    width: 58.1%;
+    top: 43.9%;
+    left: 5.4%;
+    height: auto;
+}
+
+.purpo2 img {
+    width: 100%;
+    height: auto;
+}
+
+.purpo3 {
+    position: absolute;
+    width: 55.1%;
+    top: 17.1%;
+    left: 51.8%;
+    height: auto;
+}
+
+.purpo3 img {
+    width: 65.6%;
+    height: 459.9%;
+}
+
+.espora_azul-777 {
+    position: absolute;
+    left: 96%;
+    top: 13.5%;
+}
+
+.espora_azul-778 {
+    position: absolute;
+    left: -4%;
+    top: 70%;
+}
+
+.espora_azul-779 {
+    position: absolute;
+    left: 50.5%;
+    top: -5%;
+}

@@ -10,6 +10,12 @@ const routes = [{
             import ('../views/home/view.vue')
     },
     {
+        path: '/enterogermina/1',
+        name: 'Enterogermina_1',
+        component: () =>
+            import ('../views/enterogermina/slide1.vue')
+    },
+    {
         path: '/enterogermina/01',
         name: 'Enterogermina_01',
         component: () =>
